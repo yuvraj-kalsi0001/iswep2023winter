@@ -1,0 +1,25 @@
+Region,Type,From,To,Most similar known cluster,Most similar known cluster.1,Similarity
+Region&nbsp1,"T1PKS,NRPS",3671,61265,,,
+Region&nbsp2,"NRPS,T1PKS",225648,273733,SGR PTMs,NRP + Polyketide,100%
+Region&nbsp3,terpene,309932,335094,hopene,Terpene,76%
+Region&nbsp4,RiPP-like,416365,424201,,,
+Region&nbsp5,PKS-like,669953,711002,paulomycin,Other,66%
+Region&nbsp6,RiPP-like,879992,890469,,,
+Region&nbsp7,NRPS,1137198,1198548,desotamide,NRP,18%
+Region&nbsp8,siderophore,1269074,1282468,ficellomycin,NRP,5%
+Region&nbsp9,terpene,1532214,1552795,geosmin,Terpene,100%
+Region&nbsp10,terpene,1865970,1886043,julichrome Q3-3 / julichrome Q3-5,Polyketide,25%
+Region&nbsp11,"LAP,thiopeptide",2376688,2409159,fluostatins M-Q,Polyketide,4%
+Region&nbsp12,RiPP-like,2561295,2570678,,,
+Region&nbsp13,lanthipeptide-class-iii,2713288,2735867,AmfS,RiPP:Lanthipeptide,80%
+,,3417017,3419110
+Region&nbsp14,NRPS,3553896,3602719,WS9326,NRP,7%
+Region&nbsp15,"NRPS,RRE-containing",3877586,3985758,surugamide A / surugamide D,NRP,100%
+Region&nbsp16,NRPS,4470115,4513023,,,
+Region&nbsp17,siderophore,4740450,4752270,desferrioxamin B,Other,100%
+Region&nbsp18,ectoine,5635346,5645744,ectoine,Other,100%
+Region&nbsp19,NRPS-like,6337748,6380925,indigoidine,NRP,80%
+Region&nbsp20,"RiPP-like,terpene",6401161,6430146,isorenieratene,Terpene,75%
+Region&nbsp21,T3PKS,6520374,6561471,herboxidiene,Polyketide,12%
+Region&nbsp22,"T1PKS,NRPS-like",6566919,6720313,candicidin,Polyketide,95%
+Region&nbsp23,"T1PKS,NRPS,lanthipeptide-class-ii,NRPS-like",6720786,6838639,antimycin,NRP:Cyclic depsipeptide + Polyketide:Modular type I,100%

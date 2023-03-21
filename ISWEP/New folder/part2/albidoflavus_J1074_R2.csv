@@ -1,0 +1,27 @@
+Region,Type,From,To,Most similar known cluster,Most similar known cluster.1,Similarity
+Region&nbsp1,"T1PKS,NRPS",3671,61265,,,
+Region&nbsp2,"NRPS,T1PKS",225648,273733,SGR PTMs,NRP + Polyketide,100%
+Region&nbsp3,terpene,309932,335094,hopene,Terpene,76%
+Region&nbsp4,RiPP-like,416365,424201,,,
+Region&nbsp5,PKS-like,669953,711002,paulomycin,Other,66%
+Region&nbsp6,RiPP-like,879977,890454,,,
+Region&nbsp7,NRPS,1137291,1197979,desotamide,NRP,22%
+Region&nbsp8,siderophore,1269166,1282560,ficellomycin,NRP,5%
+Region&nbsp9,terpene,1532303,1552884,geosmin,Terpene,100%
+Region&nbsp10,terpene,1866067,1886140,julichrome Q3-3 / julichrome Q3-5,Polyketide,25%
+Region&nbsp11,"LAP,thiopeptide",2376785,2409256,fluostatins M-Q,Polyketide,4%
+Region&nbsp12,RiPP-like,2561392,2570775,,,
+Region&nbsp13,lanthipeptide-class-iii,2713361,2735940,AmfS,RiPP:Lanthipeptide,80%
+Region&nbsp14,NRPS-like,3151937,3193174,pamamycin-607,Polyketide:Type II + Polyketide:Type III,60%
+,,3467688,3469781
+Region&nbsp15,NRPS-like,3582449,3623650,pamamycin-607,Polyketide:Type II + Polyketide:Type III,60%
+Region&nbsp16,NRPS,3655153,3703976,WS9326,NRP,7%
+Region&nbsp17,"NRPS,RRE-containing",3978594,4087014,surugamide A / surugamide D,NRP,100%
+Region&nbsp18,NRPS,4571297,4614205,,,
+Region&nbsp19,siderophore,4841632,4853452,desferrioxamin B,Other,100%
+Region&nbsp20,ectoine,5736509,5746907,ectoine,Other,100%
+Region&nbsp21,NRPS-like,6438911,6482088,indigoidine,NRP,80%
+Region&nbsp22,"RiPP-like,terpene",6502359,6531345,isorenieratene,Terpene,75%
+Region&nbsp23,T3PKS,6621671,6662768,herboxidiene,Polyketide,12%
+Region&nbsp24,"T1PKS,NRPS-like",6668216,6821616,candicidin,Polyketide,95%
+Region&nbsp25,"T1PKS,NRPS,lanthipeptide-class-ii,NRPS-like",6822089,6939942,antimycin,NRP:Cyclic depsipeptide + Polyketide:Modular type I,100%

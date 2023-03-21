@@ -1,0 +1,20 @@
+Region,Type,From,To,Most similar known cluster,Most similar known cluster.1,Similarity
+Region&nbsp1,"T1PKS,NRPS-like,NRPS,lanthipeptide-class-ii",15264,132534,antimycin,NRP:Cyclic depsipeptide + Polyketide:Modular type I,100%
+Region&nbsp2,"T1PKS,NRPS-like,T3PKS",133014,326922,candicidin,Polyketide,95%
+Region&nbsp3,"terpene,RiPP-like",422857,448436,isorenieratene,Terpene,85%
+Region&nbsp4,ectoine,1237456,1247854,ectoine,Other,100%
+Region&nbsp5,siderophore,2134060,2145230,desferrioxamin B,Other,100%
+Region&nbsp6,"RRE-containing,NRPS",2831703,2938131,surugamide A / surugamide D,NRP,95%
+Region&nbsp7,RiPP-like,2995377,3004368,,,
+,,3385192,3387282
+Region&nbsp8,NRPS,3576117,3635968,dechlorocuracomycin,NRP,16%
+Region&nbsp9,lanthipeptide-class-iii,3946849,3969428,SAL-2242,RiPP:Lanthipeptide,100%
+Region&nbsp10,"LAP,thiopeptide",4279337,4313245,fluostatins M-Q,Polyketide,4%
+Region&nbsp11,terpene,4816532,4836350,julichrome Q3-3 / julichrome Q3-5,Polyketide,25%
+Region&nbsp12,terpene,5178419,5198727,geosmin,Terpene,100%
+Region&nbsp13,siderophore,5451677,5466751,ficellomycin,NRP,5%
+Region&nbsp14,RiPP-like,5786210,5795311,,,
+Region&nbsp15,RiPP-like,6205061,6215276,,,
+Region&nbsp16,terpene,6293346,6319297,hopene,Terpene,76%
+Region&nbsp17,"T1PKS,NRPS",6353489,6402899,SGR PTMs,NRP + Polyketide,100%
+Region&nbsp18,"NRPS,NRPS-like,terpene",6540308,6616306,WS9326,NRP,5%

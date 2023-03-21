@@ -1,0 +1,1 @@
+bedtools subtract -a Scoili_AT.bed -b Scoili_gff.bed > core.bed
