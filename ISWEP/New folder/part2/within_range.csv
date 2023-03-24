@@ -1,0 +1,81 @@
+Gene,albidoflavus_J1074,Sign,Start,End,Type,Most similar known cluster
+betI_1,albidoflavus_J1074_00008,-,7021,7878,"T1PKS,NRPS",
+group_949,albidoflavus_J1074_00010,-,8850,9437,"T1PKS,NRPS",
+lfrA_1,albidoflavus_J1074_00013,-,10568,12124,"T1PKS,NRPS",
+dhbF,albidoflavus_J1074_00021,+,26425,27282,"T1PKS,NRPS",
+dltA_1,albidoflavus_J1074_00022,+,27275,38041,"T1PKS,NRPS",
+group_191,albidoflavus_J1074_00023,-,38086,38328,"T1PKS,NRPS",
+srlR_1,albidoflavus_J1074_00024,+,38675,39436,"T1PKS,NRPS",
+lacC,albidoflavus_J1074_00025,+,39433,40380,"T1PKS,NRPS",
+fruA,albidoflavus_J1074_00027,+,40493,42505,"T1PKS,NRPS",
+ptsH,albidoflavus_J1074_00028,+,42589,42867,"T1PKS,NRPS",
+group_102,albidoflavus_J1074_00030,-,44620,45039,"T1PKS,NRPS",
+cpdA,albidoflavus_J1074_00032,+,45684,46121,"T1PKS,NRPS",
+group_194,albidoflavus_J1074_00041,+,55456,55737,"T1PKS,NRPS",
+group_981,albidoflavus_J1074_00042,-,55763,56245,"T1PKS,NRPS",
+group_195,albidoflavus_J1074_00043,-,56312,57595,"T1PKS,NRPS",
+group_103,albidoflavus_J1074_00044,-,57596,57778,"T1PKS,NRPS",
+group_196,albidoflavus_J1074_00045,-,57883,58953,"T1PKS,NRPS",
+nrdR,albidoflavus_J1074_00187,-,251561,252073,"NRPS,T1PKS",SGR PTMs
+lexA,albidoflavus_J1074_00188,+,252695,253480,"NRPS,T1PKS",SGR PTMs
+dinG,albidoflavus_J1074_00189,-,253576,255564,"NRPS,T1PKS",SGR PTMs
+iucC_1,albidoflavus_J1074_00190,-,255651,257513,"NRPS,T1PKS",SGR PTMs
+iucB,albidoflavus_J1074_00191,-,257976,258761,"NRPS,T1PKS",SGR PTMs
+iucA,albidoflavus_J1074_00192,-,258788,260683,"NRPS,T1PKS",SGR PTMs
+dat,albidoflavus_J1074_00193,-,260754,262112,"NRPS,T1PKS",SGR PTMs
+group_998,albidoflavus_J1074_00194,+,262374,263591,"NRPS,T1PKS",SGR PTMs
+group_232,albidoflavus_J1074_00195,+,263750,264955,"NRPS,T1PKS",SGR PTMs
+group_117,albidoflavus_J1074_00196,+,264956,265633,"NRPS,T1PKS",SGR PTMs
+group_118,albidoflavus_J1074_00198,-,267419,268204,"NRPS,T1PKS",SGR PTMs
+group_119,albidoflavus_J1074_00199,+,268381,269004,"NRPS,T1PKS",SGR PTMs
+tipA,albidoflavus_J1074_00200,-,269029,269850,"NRPS,T1PKS",SGR PTMs
+group_233,albidoflavus_J1074_00201,-,269834,270376,"NRPS,T1PKS",SGR PTMs
+group_121,albidoflavus_J1074_00202,+,270586,270909,"NRPS,T1PKS",SGR PTMs
+group_122,albidoflavus_J1074_00205,-,272564,272989,"NRPS,T1PKS",SGR PTMs
+group_244,albidoflavus_J1074_00235,+,310452,311441,terpene,hopene
+aam,albidoflavus_J1074_00236,-,311443,312810,terpene,hopene
+betI_2,albidoflavus_J1074_00237,+,313005,313619,terpene,hopene
+group_247,albidoflavus_J1074_00239,-,313865,315151,terpene,hopene
+group_248,albidoflavus_J1074_00240,+,315322,315528,terpene,hopene
+btuD_2,albidoflavus_J1074_00242,-,317722,318477,terpene,hopene
+group_171,albidoflavus_J1074_00244,-,319521,320648,terpene,hopene
+group_249,albidoflavus_J1074_00245,-,320645,321712,terpene,hopene
+group_127,albidoflavus_J1074_00246,-,321709,324474,terpene,hopene
+group_128,albidoflavus_J1074_00247,-,324471,326078,terpene,hopene
+group_129,albidoflavus_J1074_00248,-,326131,328083,terpene,hopene
+group_66,albidoflavus_J1074_00249,-,328073,330295,terpene,hopene
+afsR_1,albidoflavus_J1074_00250,-,330302,332188,terpene,hopene
+group_251,albidoflavus_J1074_00251,-,332197,332430,terpene,hopene
+bmr3,albidoflavus_J1074_00252,+,332906,334498,terpene,hopene
+group_131,albidoflavus_J1074_00253,-,334514,335056,terpene,hopene
+group_267,albidoflavus_J1074_00317,+,420966,422186,RiPP-like,
+tilS,albidoflavus_J1074_00318,+,422361,423599,RiPP-like,
+otnK,albidoflavus_J1074_00501,+,671773,673041,PKS-like,paulomycin
+otnC,albidoflavus_J1074_00502,+,673038,673676,PKS-like,paulomycin
+group_318,albidoflavus_J1074_00503,-,673702,674205,PKS-like,paulomycin
+group_152,albidoflavus_J1074_00513,-,683857,684042,PKS-like,paulomycin
+fabG_2,albidoflavus_J1074_00514,-,684764,685519,PKS-like,paulomycin
+group_82,albidoflavus_J1074_00515,-,685727,686287,PKS-like,paulomycin
+rppA,albidoflavus_J1074_00516,-,686432,687529,PKS-like,paulomycin
+group_1006,albidoflavus_J1074_00517,-,687618,688850,PKS-like,paulomycin
+opuBB_2,albidoflavus_J1074_00518,+,689213,689896,PKS-like,paulomycin
+opuBB_1,albidoflavus_J1074_00519,+,689893,690564,PKS-like,paulomycin
+osmX,albidoflavus_J1074_00520,+,690564,691508,PKS-like,paulomycin
+opuCA_2,albidoflavus_J1074_00521,-,691512,692675,PKS-like,paulomycin
+pip,albidoflavus_J1074_00522,+,692748,694112,PKS-like,paulomycin
+mca,albidoflavus_J1074_00523,+,694165,694896,PKS-like,paulomycin
+group_974,albidoflavus_J1074_00524,+,694964,695599,PKS-like,paulomycin
+qorA,albidoflavus_J1074_00525,+,695725,696693,PKS-like,paulomycin
+group_153,albidoflavus_J1074_00526,+,696690,697874,PKS-like,paulomycin
+group_326,albidoflavus_J1074_00527,+,697871,698992,PKS-like,paulomycin
+appA,albidoflavus_J1074_00528,+,699150,700757,PKS-like,paulomycin
+gsiC_2,albidoflavus_J1074_00529,+,700754,701755,PKS-like,paulomycin
+dppC,albidoflavus_J1074_00530,+,701748,702617,PKS-like,paulomycin
+oppD,albidoflavus_J1074_00531,+,702614,703615,PKS-like,paulomycin
+oppF,albidoflavus_J1074_00532,+,703608,704321,PKS-like,paulomycin
+group_1007,albidoflavus_J1074_00533,+,704442,704636,PKS-like,paulomycin
+group_155,albidoflavus_J1074_00534,-,704617,705645,PKS-like,paulomycin
+group_156,albidoflavus_J1074_00535,-,705642,706232,PKS-like,paulomycin
+group_329,albidoflavus_J1074_00536,-,706196,706591,PKS-like,paulomycin
+group_157,albidoflavus_J1074_00540,+,710264,710455,PKS-like,paulomycin
+group_353,albidoflavus_J1074_00594,-,880375,884196,RiPP-like,

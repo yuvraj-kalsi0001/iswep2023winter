@@ -1,0 +1,339 @@
+Gene,Non-unique Gene name,Annotation,No. isolates,No. sequences,Avg sequences per isolate,Genome Fragment,Order within Fragment,Accessory Fragment,Accessory Order with Fragment,QC,Min group size nuc,Max group size nuc,Avg group size nuc,albidoflavus_J1074,albidoflavus_J1074_R2,albidoflavus_SM254,albidoflavus_UYFA156,albidoflavus_W68
+fadA_1,,3-ketoacyl-CoA thiolase,5,5,1,1,261,,,,21161,28640,27144,albidoflavus_J1074_00558,albidoflavus_J1074_R2_00633,albidoflavus_SM254_00564,albidoflavus_UYFA156_00114,albidoflavus_W68_00086
+rpmE2,,50S ribosomal protein L31 type B,5,5,1,1,341,,,,254,254,254,albidoflavus_J1074_00486,albidoflavus_J1074_R2_00561,albidoflavus_SM254_00494,albidoflavus_UYFA156_00185,albidoflavus_W68_00157
+pigE,,Aminotransferase PigE,5,5,1,1,822,,,,1424,1424,1424,albidoflavus_J1074_00082,albidoflavus_J1074_R2_00082,albidoflavus_SM254_00132,albidoflavus_UYFA156_00485,albidoflavus_W68_00416
+iucC_2,,Aerobactin synthase,5,5,1,1,424,,,,1820,1820,1820,albidoflavus_J1074_00406,albidoflavus_J1074_R2_00482,albidoflavus_SM254_00415,albidoflavus_UYFA156_00221,albidoflavus_W68_00191
+group_1003,,hypothetical protein,5,5,1,1,418,,,,725,725,725,albidoflavus_J1074_00411,albidoflavus_J1074_R2_00487,albidoflavus_SM254_00421,albidoflavus_UYFA156_00216,albidoflavus_W68_00186
+bcrA,,Bacitracin transport ATP-binding protein BcrA,5,5,1,1,446,,,,941,941,941,albidoflavus_J1074_00344,albidoflavus_J1074_R2_00420,albidoflavus_SM254_00354,albidoflavus_UYFA156_00242,albidoflavus_W68_00213
+paaB,,"1,2-phenylacetyl-CoA epoxidase, subunit B",5,5,1,1,226,,,,302,302,302,albidoflavus_J1074_00589,albidoflavus_J1074_R2_00664,albidoflavus_SM254_00596,albidoflavus_UYFA156_00067,albidoflavus_W68_00051
+group_1006,,Biflaviolin synthase CYP158A2,5,5,1,1,301,,,,1232,1232,1232,albidoflavus_J1074_00517,albidoflavus_J1074_R2_00592,albidoflavus_SM254_00524,albidoflavus_UYFA156_00155,albidoflavus_W68_00127
+group_1007,,hypothetical protein,5,5,1,1,285,,,,194,194,194,albidoflavus_J1074_00533,albidoflavus_J1074_R2_00608,albidoflavus_SM254_00540,albidoflavus_UYFA156_00139,albidoflavus_W68_00111
+opuBB_1,,Choline transport system permease protein OpuBB,5,5,1,1,299,,,,671,671,671,albidoflavus_J1074_00519,albidoflavus_J1074_R2_00594,albidoflavus_SM254_00526,albidoflavus_UYFA156_00153,albidoflavus_W68_00125
+group_1009,,hypothetical protein,5,5,1,1,825,,,,779,779,779,albidoflavus_J1074_00079,albidoflavus_J1074_R2_00079,albidoflavus_SM254_00129,albidoflavus_UYFA156_00488,albidoflavus_W68_00419
+lacC,,Tagatose-6-phosphate kinase,5,5,1,1,1013,,,,410,947,839,albidoflavus_J1074_00025,albidoflavus_J1074_R2_00025,albidoflavus_SM254_00076,albidoflavus_UYFA156_00542,albidoflavus_W68_00474
+group_1010,opuBB_1,Choline transport system permease protein OpuBB,5,5,1,1,463,,,,710,716,712,albidoflavus_J1074_00328,albidoflavus_J1074_R2_00404,albidoflavus_SM254_00338,albidoflavus_UYFA156_00261,albidoflavus_W68_00230
+fabG_1,,3-oxoacyl-[acyl-carrier-protein] reductase FabG,5,5,1,1,230,,,,776,776,776,albidoflavus_J1074_00585,albidoflavus_J1074_R2_00660,albidoflavus_SM254_00592,albidoflavus_UYFA156_00071,albidoflavus_W68_00055
+ectD,,Ectoine dioxygenase,5,5,1,1,414,,,,896,896,896,albidoflavus_J1074_00415,albidoflavus_J1074_R2_00491,albidoflavus_SM254_00425,albidoflavus_UYFA156_00212,albidoflavus_W68_00182
+shc,,Squalene--hopene cyclase,5,5,1,1,819,,,,1985,1991,1989,albidoflavus_J1074_00085,albidoflavus_J1074_R2_00085,albidoflavus_SM254_00135,albidoflavus_UYFA156_00482,albidoflavus_W68_00413
+cimA,,(R)-citramalate synthase,5,5,1,1,697,,,,1769,1781,1778,albidoflavus_J1074_00210,albidoflavus_J1074_R2_00211,albidoflavus_SM254_00224,albidoflavus_UYFA156_00423,albidoflavus_W68_00358
+folB,,Dihydroneopterin aldolase,5,5,1,1,467,,,,359,359,359,albidoflavus_J1074_00324,albidoflavus_J1074_R2_00400,albidoflavus_SM254_00334,albidoflavus_UYFA156_00265,albidoflavus_W68_00234
+livF_2,,High-affinity branched-chain amino acid transport ATP-binding protein LivF,5,5,1,1,238,,,,728,728,728,albidoflavus_J1074_00578,albidoflavus_J1074_R2_00653,albidoflavus_SM254_00584,albidoflavus_UYFA156_00079,albidoflavus_W68_00063
+mdtD_2,,Putative multidrug resistance protein MdtD,5,5,1,1,459,,,,1574,1604,1594,albidoflavus_J1074_00332,albidoflavus_J1074_R2_00408,albidoflavus_SM254_00342,albidoflavus_UYFA156_00257,albidoflavus_W68_00226
+group_1018,,putative protein,5,5,1,1,409,,,,1079,1079,1079,albidoflavus_J1074_00420,albidoflavus_J1074_R2_00496,albidoflavus_SM254_00430,albidoflavus_UYFA156_00207,albidoflavus_W68_00177
+gdhIV,,Glucose 1-dehydrogenase 4,5,5,1,1,922,,,,749,749,749,albidoflavus_J1074_00615,albidoflavus_J1074_R2_00690,albidoflavus_SM254_00622,albidoflavus_UYFA156_00040,albidoflavus_W68_00026
+group_102,,hypothetical protein,5,5,1,1,1018,,,,116,419,297,albidoflavus_J1074_00030,albidoflavus_J1074_R2_00030,albidoflavus_SM254_00080,albidoflavus_UYFA156_00537,albidoflavus_W68_00469
+ftsH,,ATP-dependent zinc metalloprotease FtsH,5,5,1,1,471,,,,2042,2078,2063,albidoflavus_J1074_00320,albidoflavus_J1074_R2_00396,albidoflavus_SM254_00330,albidoflavus_UYFA156_00269,albidoflavus_W68_00238
+group_1021,,hypothetical protein,5,5,1,1,689,,,,2375,2375,2375,albidoflavus_J1074_00218,albidoflavus_J1074_R2_00219,albidoflavus_SM254_00232,albidoflavus_UYFA156_00414,albidoflavus_W68_00349
+group_1022,,hypothetical protein,5,5,1,1,469,,,,488,488,488,albidoflavus_J1074_00322,albidoflavus_J1074_R2_00398,albidoflavus_SM254_00332,albidoflavus_UYFA156_00267,albidoflavus_W68_00236
+group_1023,,hypothetical protein,5,5,1,1,272,,,,584,584,584,albidoflavus_J1074_00547,albidoflavus_J1074_R2_00622,albidoflavus_SM254_00553,albidoflavus_UYFA156_00126,albidoflavus_W68_00097
+nrdR,,Transcriptional repressor NrdR,5,5,1,1,722,,,,512,512,512,albidoflavus_J1074_00187,albidoflavus_J1074_R2_00187,albidoflavus_SM254_00200,albidoflavus_UYFA156_00450,albidoflavus_W68_00383
+dhpH,,"2,6-dihydroxypyridine 3-monooxygenase",5,5,1,1,239,,,,1202,1217,1211,albidoflavus_J1074_00577,albidoflavus_J1074_R2_00652,albidoflavus_SM254_00583,albidoflavus_UYFA156_00080,albidoflavus_W68_00064
+rpmG2,,50S ribosomal protein L33 2,5,5,1,1,340,,,,164,164,164,albidoflavus_J1074_00487,albidoflavus_J1074_R2_00562,albidoflavus_SM254_00495,albidoflavus_UYFA156_00184,albidoflavus_W68_00156
+group_1027,,hypothetical protein,5,5,1,1,466,,,,470,470,470,albidoflavus_J1074_00325,albidoflavus_J1074_R2_00401,albidoflavus_SM254_00335,albidoflavus_UYFA156_00264,albidoflavus_W68_00233
+opuCA_2,,Carnitine transport ATP-binding protein OpuCA,5,5,1,1,297,,,,1163,1163,1163,albidoflavus_J1074_00521,albidoflavus_J1074_R2_00596,albidoflavus_SM254_00528,albidoflavus_UYFA156_00151,albidoflavus_W68_00123
+ccr,,Crotonyl-CoA carboxylase/reductase,5,5,1,1,222,,,,1220,1226,1224,albidoflavus_J1074_00593,albidoflavus_J1074_R2_00668,albidoflavus_SM254_00600,albidoflavus_UYFA156_00063,albidoflavus_W68_00047
+group_103,,hypothetical protein,5,5,1,1,1027,,,,182,182,182,albidoflavus_J1074_00044,albidoflavus_J1074_R2_00044,albidoflavus_SM254_00095,albidoflavus_UYFA156_00521,albidoflavus_W68_00453
+srlR_1,,Glucitol operon repressor,5,5,1,1,1012,,,,761,761,761,albidoflavus_J1074_00024,albidoflavus_J1074_R2_00024,albidoflavus_SM254_00075,albidoflavus_UYFA156_00543,albidoflavus_W68_00475
+group_1031,,hypothetical protein,5,5,1,1,241,,,,695,695,695,albidoflavus_J1074_00575,albidoflavus_J1074_R2_00650,albidoflavus_SM254_00581,albidoflavus_UYFA156_00082,albidoflavus_W68_00066
+group_1032,,Pentalenic acid synthase,5,5,1,1,247,,,,1181,1181,1181,albidoflavus_J1074_00569,albidoflavus_J1074_R2_00644,albidoflavus_SM254_00575,albidoflavus_UYFA156_00089,albidoflavus_W68_00072
+group_1033,,Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase,5,5,1,1,687,,,,1367,1367,1367,albidoflavus_J1074_00220,albidoflavus_J1074_R2_00221,albidoflavus_SM254_00234,albidoflavus_UYFA156_00412,albidoflavus_W68_00347
+otnC,,3-oxo-tetronate 4-phosphate decarboxylase,5,5,1,1,320,,,,638,638,638,albidoflavus_J1074_00502,albidoflavus_J1074_R2_00577,albidoflavus_SM254_00509,albidoflavus_UYFA156_00169,albidoflavus_W68_00141
+group_104,,hypothetical protein,5,5,1,1,1030,,,,1283,1592,1348,albidoflavus_J1074_00047,albidoflavus_J1074_R2_00047,albidoflavus_SM254_00098,albidoflavus_UYFA156_00518,albidoflavus_W68_00450
+group_105,,hypothetical protein,5,5,1,1,1032,,,,305,530,483,albidoflavus_J1074_00049,albidoflavus_J1074_R2_00049,albidoflavus_SM254_00100,albidoflavus_UYFA156_00516,albidoflavus_W68_00448
+group_106,,hypothetical protein,5,5,1,1,851,,,,728,803,746,albidoflavus_J1074_00053,albidoflavus_J1074_R2_00053,albidoflavus_SM254_00104,albidoflavus_UYFA156_00513,albidoflavus_W68_00445
+yfmJ,,Putative NADP-dependent oxidoreductase YfmJ,5,5,1,1,848,,,,866,1055,1017,albidoflavus_J1074_00056,albidoflavus_J1074_R2_00056,albidoflavus_SM254_00107,albidoflavus_UYFA156_00510,albidoflavus_W68_00442
+group_108,,hypothetical protein,5,5,1,1,847,,,,1730,1910,1766,albidoflavus_J1074_00057,albidoflavus_J1074_R2_00057,albidoflavus_SM254_00108,albidoflavus_UYFA156_00509,albidoflavus_W68_00441
+group_109,,hypothetical protein,5,5,1,1,830,,,,293,593,478,albidoflavus_J1074_00074,albidoflavus_J1074_R2_00074,albidoflavus_SM254_00125,albidoflavus_UYFA156_00494,albidoflavus_W68_00424
+group_110,,hypothetical protein,5,5,1,1,814,,,,581,911,845,albidoflavus_J1074_00090,albidoflavus_J1074_R2_00090,albidoflavus_SM254_00140,albidoflavus_UYFA156_00477,albidoflavus_W68_00408
+group_112,,hypothetical protein,5,5,1,1,812,,,,905,938,913,albidoflavus_J1074_00092,albidoflavus_J1074_R2_00092,albidoflavus_SM254_00142,albidoflavus_UYFA156_00474,albidoflavus_W68_00406
+tap,,Tripeptidyl aminopeptidase,5,5,1,1,770,,,,1004,1646,1516,albidoflavus_J1074_00147,albidoflavus_J1074_R2_00147,albidoflavus_SM254_00162,albidoflavus_UYFA156_00454,albidoflavus_W68_00387
+hemY,,Protoporphyrinogen oxidase,5,5,1,1,768,,,,1259,1472,1429,albidoflavus_J1074_00149,albidoflavus_J1074_R2_00149,albidoflavus_SM254_00164,albidoflavus_UYFA156_00452,albidoflavus_W68_00385
+dinG,,putative ATP-dependent helicase DinG ,5,5,1,1,719,,,,1379,1988,1866,albidoflavus_J1074_00189,albidoflavus_J1074_R2_00189,albidoflavus_SM254_00202,albidoflavus_UYFA156_00447,albidoflavus_W68_00381
+group_117,,hypothetical protein,5,5,1,1,712,,,,677,677,677,albidoflavus_J1074_00196,albidoflavus_J1074_R2_00196,albidoflavus_SM254_00209,albidoflavus_UYFA156_00437,albidoflavus_W68_00371
+group_118,,hypothetical protein,5,5,1,1,710,,,,782,785,783,albidoflavus_J1074_00198,albidoflavus_J1074_R2_00198,albidoflavus_SM254_00211,albidoflavus_UYFA156_00433,albidoflavus_W68_00368
+group_119,,hypothetical protein,5,5,1,1,709,,,,614,623,621,albidoflavus_J1074_00199,albidoflavus_J1074_R2_00199,albidoflavus_SM254_00212,albidoflavus_UYFA156_00432,albidoflavus_W68_00367
+tipA,,HTH-type transcriptional activator TipA,5,5,1,1,708,,,,821,821,821,albidoflavus_J1074_00200,albidoflavus_J1074_R2_00200,albidoflavus_SM254_00213,albidoflavus_UYFA156_00431,albidoflavus_W68_00366
+group_121,,hypothetical protein,5,5,1,1,706,,,,323,323,323,albidoflavus_J1074_00202,albidoflavus_J1074_R2_00202,albidoflavus_SM254_00215,albidoflavus_UYFA156_00429,albidoflavus_W68_00364
+group_122,,hypothetical protein,5,5,1,1,703,,,,425,443,432,albidoflavus_J1074_00205,albidoflavus_J1074_R2_00205,albidoflavus_SM254_00218,albidoflavus_UYFA156_00428,albidoflavus_W68_00363
+group_124,,hypothetical protein,5,5,1,1,672,,,,290,341,330,albidoflavus_J1074_00233,albidoflavus_J1074_R2_00234,albidoflavus_SM254_00247,albidoflavus_UYFA156_00398,albidoflavus_W68_00334
+mfd,,Transcription-repair-coupling factor,5,5,1,1,671,,,,1607,3533,3147,albidoflavus_J1074_00234,albidoflavus_J1074_R2_00235,albidoflavus_SM254_00248,albidoflavus_UYFA156_00397,albidoflavus_W68_00333
+group_127,,hypothetical protein,5,5,1,1,659,,,,2603,2765,2732,albidoflavus_J1074_00246,albidoflavus_J1074_R2_00247,albidoflavus_SM254_00259,albidoflavus_UYFA156_00384,albidoflavus_W68_00320
+group_128,,hypothetical protein,5,5,1,1,658,,,,1370,1607,1559,albidoflavus_J1074_00247,albidoflavus_J1074_R2_00248,albidoflavus_SM254_00260,albidoflavus_UYFA156_00383,albidoflavus_W68_00319
+group_129,,hypothetical protein,5,5,1,1,657,,,,1952,2186,1998,albidoflavus_J1074_00248,albidoflavus_J1074_R2_00249,albidoflavus_SM254_00261,albidoflavus_UYFA156_00382,albidoflavus_W68_00318
+bmr3,,Multidrug resistance protein 3,5,5,1,1,652,,,,1463,1592,1566,albidoflavus_J1074_00252,albidoflavus_J1074_R2_00253,albidoflavus_SM254_00265,albidoflavus_UYFA156_00377,albidoflavus_W68_00314
+group_131,,hypothetical protein,5,5,1,1,651,,,,542,548,543,albidoflavus_J1074_00253,albidoflavus_J1074_R2_00254,albidoflavus_SM254_00266,albidoflavus_UYFA156_00376,albidoflavus_W68_00313
+group_132,,hypothetical protein,5,5,1,1,647,,,,362,1919,835,albidoflavus_J1074_00257,albidoflavus_J1074_R2_00258,albidoflavus_SM254_00270,albidoflavus_UYFA156_00374,albidoflavus_W68_00311
+opuCA_1,,Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA,5,5,1,1,464,,,,1064,1166,1145,albidoflavus_J1074_00327,albidoflavus_J1074_R2_00403,albidoflavus_SM254_00337,albidoflavus_UYFA156_00262,albidoflavus_W68_00231
+stp,,Multidrug resistance protein Stp,5,5,1,1,456,,,,245,1358,990,albidoflavus_J1074_00335,albidoflavus_J1074_R2_00411,albidoflavus_SM254_00345,albidoflavus_UYFA156_00255,albidoflavus_W68_00223
+dap,,D-aminopeptidase,5,5,1,1,450,,,,1004,1355,1284,albidoflavus_J1074_00340,albidoflavus_J1074_R2_00416,albidoflavus_SM254_00350,albidoflavus_UYFA156_00246,albidoflavus_W68_00217
+group_139,,hypothetical protein,5,5,1,1,439,,,,2207,2291,2274,albidoflavus_J1074_00351,albidoflavus_J1074_R2_00427,albidoflavus_SM254_00361,albidoflavus_UYFA156_00235,albidoflavus_W68_00206
+group_140,,hypothetical protein,5,5,1,1,435,,,,1427,1538,1488,albidoflavus_J1074_00355,albidoflavus_J1074_R2_00431,albidoflavus_SM254_00365,albidoflavus_UYFA156_00231,albidoflavus_W68_00202
+group_141,,hypothetical protein,5,5,1,1,429,,,,203,563,431,albidoflavus_J1074_00401,albidoflavus_J1074_R2_00477,albidoflavus_SM254_00410,albidoflavus_UYFA156_00225,albidoflavus_W68_00196
+egtE,,hercynylcysteine sulfoxide lyase,5,5,1,1,417,,,,1085,1211,1135,albidoflavus_J1074_00412,albidoflavus_J1074_R2_00488,albidoflavus_SM254_00422,albidoflavus_UYFA156_00215,albidoflavus_W68_00185
+lin,,Linocin-M18,5,5,1,1,359,,,,803,1049,901,albidoflavus_J1074_00468,albidoflavus_J1074_R2_00544,albidoflavus_SM254_00477,albidoflavus_UYFA156_00202,albidoflavus_W68_00172
+group_145,,hypothetical protein,5,5,1,1,358,,,,989,1091,1016,albidoflavus_J1074_00469,albidoflavus_J1074_R2_00545,albidoflavus_SM254_00478,albidoflavus_UYFA156_00201,albidoflavus_W68_00171
+crtB_2,,15-cis-phytoene synthase,5,5,1,1,353,,,,962,1247,1019,albidoflavus_J1074_00474,albidoflavus_J1074_R2_00550,albidoflavus_SM254_00483,albidoflavus_UYFA156_00196,albidoflavus_W68_00166
+group_147,,hypothetical protein,5,5,1,1,352,,,,716,998,941,albidoflavus_J1074_00475,albidoflavus_J1074_R2_00551,albidoflavus_SM254_00484,albidoflavus_UYFA156_00195,albidoflavus_W68_00165
+group_149,,hypothetical protein,5,5,1,1,336,,,,1094,1301,1182,albidoflavus_J1074_00491,albidoflavus_J1074_R2_00566,albidoflavus_SM254_00499,albidoflavus_UYFA156_00180,albidoflavus_W68_00152
+otnK,,3-oxo-tetronate kinase,5,5,1,1,321,,,,389,1268,918,albidoflavus_J1074_00501,albidoflavus_J1074_R2_00576,albidoflavus_SM254_00508,albidoflavus_UYFA156_00170,albidoflavus_W68_00142
+group_152,,hypothetical protein,5,5,1,1,309,,,,185,863,584,albidoflavus_J1074_00513,albidoflavus_J1074_R2_00588,albidoflavus_SM254_00520,albidoflavus_UYFA156_00159,albidoflavus_W68_00131
+group_153,,Acyl-CoA dehydrogenase FadE34,5,5,1,1,292,,,,941,1184,1135,albidoflavus_J1074_00526,albidoflavus_J1074_R2_00601,albidoflavus_SM254_00533,albidoflavus_UYFA156_00146,albidoflavus_W68_00118
+oppF,,Oligopeptide transport ATP-binding protein OppF,5,5,1,1,286,,,,713,713,713,albidoflavus_J1074_00532,albidoflavus_J1074_R2_00607,albidoflavus_SM254_00539,albidoflavus_UYFA156_00140,albidoflavus_W68_00112
+group_155,,hypothetical protein,5,5,1,1,284,,,,938,1028,977,albidoflavus_J1074_00534,albidoflavus_J1074_R2_00609,albidoflavus_SM254_00541,albidoflavus_UYFA156_00137,albidoflavus_W68_00108
+group_156,,hypothetical protein,5,5,1,1,283,,,,500,590,536,albidoflavus_J1074_00535,albidoflavus_J1074_R2_00610,albidoflavus_SM254_00542,albidoflavus_UYFA156_00136,albidoflavus_W68_00107
+group_157,,hypothetical protein,5,5,1,1,279,,,,191,191,191,albidoflavus_J1074_00540,albidoflavus_J1074_R2_00615,albidoflavus_SM254_00546,albidoflavus_UYFA156_00133,albidoflavus_W68_00104
+group_158,,hypothetical protein,5,5,1,1,278,,,,686,692,689,albidoflavus_J1074_00541,albidoflavus_J1074_R2_00616,albidoflavus_SM254_00547,albidoflavus_UYFA156_00132,albidoflavus_W68_00103
+group_159,,Carotenoid cleavage oxygenase,5,5,1,1,266,,,,1229,1436,1392,albidoflavus_J1074_00553,albidoflavus_J1074_R2_00628,albidoflavus_SM254_00559,albidoflavus_UYFA156_00120,albidoflavus_W68_00091
+group_160,,hypothetical protein,5,5,1,1,263,,,,485,851,777,albidoflavus_J1074_00556,albidoflavus_J1074_R2_00631,albidoflavus_SM254_00562,albidoflavus_UYFA156_00116,albidoflavus_W68_00088
+per,,GDP-perosamine synthase,5,5,1,1,246,,,,665,1058,979,albidoflavus_J1074_00570,albidoflavus_J1074_R2_00645,albidoflavus_SM254_00576,albidoflavus_UYFA156_00087,albidoflavus_W68_00071
+argP,,HTH-type transcriptional regulator ArgP,5,5,1,1,924,,,,875,875,875,albidoflavus_J1074_00617,albidoflavus_J1074_R2_00692,albidoflavus_SM254_00624,albidoflavus_UYFA156_00038,albidoflavus_W68_00024
+kmo,,hypothetical protein,5,5,1,1,925,,,,1163,1241,1194,albidoflavus_J1074_00618,albidoflavus_J1074_R2_00693,albidoflavus_SM254_00625,albidoflavus_UYFA156_00037,albidoflavus_W68_00023
+dltA_5,,hypothetical protein,5,5,1,1,846,,,,1682,4256,2196,albidoflavus_J1074_00058,albidoflavus_J1074_R2_00058,albidoflavus_SM254_00109,albidoflavus_UYFA156_00508,albidoflavus_W68_00440
+ureC,,Urease subunit alpha,5,5,1,1,694,,,,1058,1808,1654,albidoflavus_J1074_00213,albidoflavus_J1074_R2_00214,albidoflavus_SM254_00227,albidoflavus_UYFA156_00420,albidoflavus_W68_00355
+group_171,,hypothetical protein,5,5,1,1,661,,,,1115,1139,1125,albidoflavus_J1074_00244,albidoflavus_J1074_R2_00245,albidoflavus_SM254_00257,albidoflavus_UYFA156_00386,albidoflavus_W68_00322
+group_191,,hypothetical protein,5,5,1,1,1011,,,,242,242,242,albidoflavus_J1074_00023,albidoflavus_J1074_R2_00023,albidoflavus_SM254_00074,albidoflavus_UYFA156_00544,albidoflavus_W68_00476
+fruA,,PTS system fructose-specific EIIABC component,5,5,1,1,1014,,,,2012,2012,2012,albidoflavus_J1074_00027,albidoflavus_J1074_R2_00027,albidoflavus_SM254_00077,albidoflavus_UYFA156_00541,albidoflavus_W68_00473
+group_194,,hypothetical protein,5,5,1,1,1021,,,,281,281,281,albidoflavus_J1074_00041,albidoflavus_J1074_R2_00041,albidoflavus_SM254_00083,albidoflavus_UYFA156_00535,albidoflavus_W68_00467
+group_195,,hypothetical protein,5,5,1,1,1023,,,,1283,1283,1283,albidoflavus_J1074_00043,albidoflavus_J1074_R2_00043,albidoflavus_SM254_00085,albidoflavus_UYFA156_00533,albidoflavus_W68_00465
+group_196,,hypothetical protein,5,5,1,1,1028,,,,1055,1070,1064,albidoflavus_J1074_00045,albidoflavus_J1074_R2_00045,albidoflavus_SM254_00096,albidoflavus_UYFA156_00520,albidoflavus_W68_00452
+rapA,,RNA polymerase-associated protein RapA,5,5,1,1,1029,,,,2870,2873,2871,albidoflavus_J1074_00046,albidoflavus_J1074_R2_00046,albidoflavus_SM254_00097,albidoflavus_UYFA156_00519,albidoflavus_W68_00451
+group_198,,hypothetical protein,5,5,1,1,1031,,,,308,347,339,albidoflavus_J1074_00048,albidoflavus_J1074_R2_00048,albidoflavus_SM254_00099,albidoflavus_UYFA156_00517,albidoflavus_W68_00449
+group_201,,hypothetical protein,5,5,1,1,850,,,,602,602,602,albidoflavus_J1074_00054,albidoflavus_J1074_R2_00054,albidoflavus_SM254_00105,albidoflavus_UYFA156_00512,albidoflavus_W68_00444
+mycG_1,,Mycinamicin IV hydroxylase/epoxidase,5,5,1,1,849,,,,1199,1199,1199,albidoflavus_J1074_00055,albidoflavus_J1074_R2_00055,albidoflavus_SM254_00106,albidoflavus_UYFA156_00511,albidoflavus_W68_00443
+group_203,,hypothetical protein,5,5,1,1,838,,,,518,518,518,albidoflavus_J1074_00061,albidoflavus_J1074_R2_00061,albidoflavus_SM254_00112,albidoflavus_UYFA156_00501,albidoflavus_W68_00437
+group_204,,putative oxidoreductase,5,5,1,1,837,,,,2288,2288,2288,albidoflavus_J1074_00062,albidoflavus_J1074_R2_00062,albidoflavus_SM254_00113,albidoflavus_UYFA156_00500,albidoflavus_W68_00436
+sprA,,Streptogrisin-A,5,5,1,1,834,,,,890,890,890,albidoflavus_J1074_00065,albidoflavus_J1074_R2_00065,albidoflavus_SM254_00116,albidoflavus_UYFA156_00497,albidoflavus_W68_00433
+group_206,,hypothetical protein,5,5,1,1,833,,,,2627,2627,2627,albidoflavus_J1074_00067,albidoflavus_J1074_R2_00067,albidoflavus_SM254_00118,albidoflavus_UYFA156_00495,albidoflavus_W68_00431
+group_210,,hypothetical protein,5,5,1,1,829,,,,356,356,356,albidoflavus_J1074_00075,albidoflavus_J1074_R2_00075,albidoflavus_SM254_00126,albidoflavus_UYFA156_00493,albidoflavus_W68_00423
+group_212,,putative protein,5,5,1,1,827,,,,1229,1229,1229,albidoflavus_J1074_00077,albidoflavus_J1074_R2_00077,albidoflavus_SM254_00127,albidoflavus_UYFA156_00490,albidoflavus_W68_00421
+group_213,,hypothetical protein,5,5,1,1,826,,,,794,860,820,albidoflavus_J1074_00078,albidoflavus_J1074_R2_00078,albidoflavus_SM254_00128,albidoflavus_UYFA156_00489,albidoflavus_W68_00420
+group_214,,hypothetical protein,5,5,1,1,824,,,,182,185,183,albidoflavus_J1074_00080,albidoflavus_J1074_R2_00080,albidoflavus_SM254_00130,albidoflavus_UYFA156_00487,albidoflavus_W68_00418
+group_215,,hypothetical protein,5,5,1,1,823,,,,617,617,617,albidoflavus_J1074_00081,albidoflavus_J1074_R2_00081,albidoflavus_SM254_00131,albidoflavus_UYFA156_00486,albidoflavus_W68_00417
+group_216,,hypothetical protein,5,5,1,1,820,,,,671,671,671,albidoflavus_J1074_00084,albidoflavus_J1074_R2_00084,albidoflavus_SM254_00134,albidoflavus_UYFA156_00483,albidoflavus_W68_00414
+group_217,,hypothetical protein,5,5,1,1,818,,,,107,107,107,albidoflavus_J1074_00086,albidoflavus_J1074_R2_00086,albidoflavus_SM254_00136,albidoflavus_UYFA156_00481,albidoflavus_W68_00412
+hpnE,,Hydroxysqualene dehydroxylase,5,5,1,1,816,,,,1376,1376,1376,albidoflavus_J1074_00088,albidoflavus_J1074_R2_00088,albidoflavus_SM254_00138,albidoflavus_UYFA156_00479,albidoflavus_W68_00410
+group_219,,hypothetical protein,5,5,1,1,810,,,,683,779,740,albidoflavus_J1074_00094,albidoflavus_J1074_R2_00094,albidoflavus_SM254_00144,albidoflavus_UYFA156_00472,albidoflavus_W68_00404
+dhbF,,Dimodular nonribosomal peptide synthase,5,5,1,1,1008,,,,857,7769,3619,albidoflavus_J1074_00021,albidoflavus_J1074_R2_00021,albidoflavus_SM254_00072,albidoflavus_UYFA156_00548,albidoflavus_W68_00479
+group_220,,hypothetical protein,5,5,1,1,807,,,,1721,1724,1722,albidoflavus_J1074_00097,albidoflavus_J1074_R2_00097,albidoflavus_SM254_00147,albidoflavus_UYFA156_00469,albidoflavus_W68_00401
+group_222,,hypothetical protein,5,5,1,1,802,,,,506,506,506,albidoflavus_J1074_00102,albidoflavus_J1074_R2_00102,albidoflavus_SM254_00152,albidoflavus_UYFA156_00464,albidoflavus_W68_00397
+lagD,,Lactococcin-G-processing and transport ATP-binding protein LagD,5,5,1,1,799,,,,2129,2297,2263,albidoflavus_J1074_00105,albidoflavus_J1074_R2_00105,albidoflavus_SM254_00155,albidoflavus_UYFA156_00461,albidoflavus_W68_00394
+group_224,,hypothetical protein,5,5,1,1,773,,,,869,869,869,albidoflavus_J1074_00144,albidoflavus_J1074_R2_00144,albidoflavus_SM254_00159,albidoflavus_UYFA156_00457,albidoflavus_W68_00390
+group_225,,hypothetical protein,5,5,1,1,772,,,,713,713,713,albidoflavus_J1074_00145,albidoflavus_J1074_R2_00145,albidoflavus_SM254_00160,albidoflavus_UYFA156_00456,albidoflavus_W68_00389
+group_226,,hypothetical protein,5,5,1,1,771,,,,1328,1328,1328,albidoflavus_J1074_00146,albidoflavus_J1074_R2_00146,albidoflavus_SM254_00161,albidoflavus_UYFA156_00455,albidoflavus_W68_00388
+iucC_1,,Aerobactin synthase,5,5,1,1,718,,,,1862,1862,1862,albidoflavus_J1074_00190,albidoflavus_J1074_R2_00190,albidoflavus_SM254_00203,albidoflavus_UYFA156_00446,albidoflavus_W68_00380
+iucB,,hypothetical protein,5,5,1,1,717,,,,785,794,787,albidoflavus_J1074_00191,albidoflavus_J1074_R2_00191,albidoflavus_SM254_00204,albidoflavus_UYFA156_00445,albidoflavus_W68_00379
+iucA,,N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase,5,5,1,1,716,,,,1889,1895,1892,albidoflavus_J1074_00192,albidoflavus_J1074_R2_00192,albidoflavus_SM254_00205,albidoflavus_UYFA156_00444,albidoflavus_W68_00378
+dat,,Diaminobutyrate--2-oxoglutarate aminotransferase,5,5,1,1,715,,,,1274,1358,1341,albidoflavus_J1074_00193,albidoflavus_J1074_R2_00193,albidoflavus_SM254_00206,albidoflavus_UYFA156_00443,albidoflavus_W68_00377
+group_232,,hypothetical protein,5,5,1,1,713,,,,1205,1205,1205,albidoflavus_J1074_00195,albidoflavus_J1074_R2_00195,albidoflavus_SM254_00208,albidoflavus_UYFA156_00441,albidoflavus_W68_00375
+group_233,,hypothetical protein,5,5,1,1,707,,,,542,542,542,albidoflavus_J1074_00201,albidoflavus_J1074_R2_00201,albidoflavus_SM254_00214,albidoflavus_UYFA156_00430,albidoflavus_W68_00365
+group_234,,hypothetical protein,5,5,1,1,702,,,,818,824,821,albidoflavus_J1074_00206,albidoflavus_J1074_R2_00206,albidoflavus_SM254_00219,albidoflavus_UYFA156_00427,albidoflavus_W68_00362
+cyc2,,Germacradienol/geosmin synthase,5,5,1,1,699,,,,2285,2285,2285,albidoflavus_J1074_00208,albidoflavus_J1074_R2_00209,albidoflavus_SM254_00222,albidoflavus_UYFA156_00425,albidoflavus_W68_00360
+group_236,,hypothetical protein,5,5,1,1,698,,,,1367,1373,1369,albidoflavus_J1074_00209,albidoflavus_J1074_R2_00210,albidoflavus_SM254_00223,albidoflavus_UYFA156_00424,albidoflavus_W68_00359
+ureA,,Urease subunit alpha,5,5,1,1,693,,,,737,755,747,albidoflavus_J1074_00214,albidoflavus_J1074_R2_00215,albidoflavus_SM254_00228,albidoflavus_UYFA156_00419,albidoflavus_W68_00354
+cstA,,Peptide transporter CstA,5,5,1,1,691,,,,2222,2234,2228,albidoflavus_J1074_00216,albidoflavus_J1074_R2_00217,albidoflavus_SM254_00230,albidoflavus_UYFA156_00416,albidoflavus_W68_00351
+group_240,,hypothetical protein,5,5,1,1,690,,,,242,242,242,albidoflavus_J1074_00217,albidoflavus_J1074_R2_00218,albidoflavus_SM254_00231,albidoflavus_UYFA156_00415,albidoflavus_W68_00350
+cyc1,,Epi-isozizaene synthase,5,5,1,1,686,,,,974,974,974,albidoflavus_J1074_00221,albidoflavus_J1074_R2_00222,albidoflavus_SM254_00235,albidoflavus_UYFA156_00411,albidoflavus_W68_00346
+group_242,,hypothetical protein,5,5,1,1,677,,,,722,722,722,albidoflavus_J1074_00228,albidoflavus_J1074_R2_00229,albidoflavus_SM254_00242,albidoflavus_UYFA156_00403,albidoflavus_W68_00339
+group_243,,hypothetical protein,5,5,1,1,673,,,,617,620,618,albidoflavus_J1074_00232,albidoflavus_J1074_R2_00233,albidoflavus_SM254_00246,albidoflavus_UYFA156_00399,albidoflavus_W68_00335
+group_244,,hypothetical protein,5,5,1,1,670,,,,989,989,989,albidoflavus_J1074_00235,albidoflavus_J1074_R2_00236,albidoflavus_SM254_00249,albidoflavus_UYFA156_00395,albidoflavus_W68_00332
+betI_2,,HTH-type transcriptional regulator BetI,5,5,1,1,668,,,,614,614,614,albidoflavus_J1074_00237,albidoflavus_J1074_R2_00238,albidoflavus_SM254_00251,albidoflavus_UYFA156_00393,albidoflavus_W68_00330
+group_247,,N-acetyldiaminopimelate deacetylase,5,5,1,1,666,,,,1277,1286,1284,albidoflavus_J1074_00239,albidoflavus_J1074_R2_00240,albidoflavus_SM254_00253,albidoflavus_UYFA156_00392,albidoflavus_W68_00328
+group_248,,hypothetical protein,5,5,1,1,665,,,,176,206,200,albidoflavus_J1074_00240,albidoflavus_J1074_R2_00241,albidoflavus_SM254_00254,albidoflavus_UYFA156_00391,albidoflavus_W68_00327
+group_249,,hypothetical protein,5,5,1,1,660,,,,1067,1067,1067,albidoflavus_J1074_00245,albidoflavus_J1074_R2_00246,albidoflavus_SM254_00258,albidoflavus_UYFA156_00385,albidoflavus_W68_00321
+afsR_1,,Regulatory protein AfsR,5,5,1,1,654,,,,1886,1886,1886,albidoflavus_J1074_00250,albidoflavus_J1074_R2_00251,albidoflavus_SM254_00263,albidoflavus_UYFA156_00379,albidoflavus_W68_00316
+group_251,,hypothetical protein,5,5,1,1,653,,,,233,233,233,albidoflavus_J1074_00251,albidoflavus_J1074_R2_00252,albidoflavus_SM254_00264,albidoflavus_UYFA156_00378,albidoflavus_W68_00315
+ydaF,,Putative ribosomal N-acetyltransferase YdaF,5,5,1,1,650,,,,557,563,559,albidoflavus_J1074_00254,albidoflavus_J1074_R2_00255,albidoflavus_SM254_00267,albidoflavus_UYFA156_00375,albidoflavus_W68_00312
+mqnB,,Futalosine hydrolase,5,5,1,1,645,,,,725,725,725,albidoflavus_J1074_00270,albidoflavus_J1074_R2_00272,albidoflavus_SM254_00272,albidoflavus_UYFA156_00366,albidoflavus_W68_00306
+group_256,,hypothetical protein,5,5,1,1,642,,,,251,329,266,albidoflavus_J1074_00273,albidoflavus_J1074_R2_00275,albidoflavus_SM254_00275,albidoflavus_UYFA156_00363,albidoflavus_W68_00303
+yfiY,,putative siderophore-binding lipoprotein YfiY,5,5,1,1,575,,,,977,977,977,albidoflavus_J1074_00279,albidoflavus_J1074_R2_00281,albidoflavus_SM254_00281,albidoflavus_UYFA156_00354,albidoflavus_W68_00297
+fepC_1,,Ferric enterobactin transport ATP-binding protein FepC,5,5,1,1,576,,,,854,854,854,albidoflavus_J1074_00280,albidoflavus_J1074_R2_00282,albidoflavus_SM254_00282,albidoflavus_UYFA156_00353,albidoflavus_W68_00296
+yfhA_1,,putative siderophore transport system permease protein YfhA,5,5,1,1,577,,,,1082,1094,1086,albidoflavus_J1074_00281,albidoflavus_J1074_R2_00283,albidoflavus_SM254_00283,albidoflavus_UYFA156_00352,albidoflavus_W68_00295
+yfiZ_1,,putative siderophore transport system permease protein YfiZ,5,5,1,1,578,,,,1064,1133,1091,albidoflavus_J1074_00282,albidoflavus_J1074_R2_00284,albidoflavus_SM254_00284,albidoflavus_UYFA156_00351,albidoflavus_W68_00294
+gph,,Phosphoglycolate phosphatase,5,5,1,1,579,,,,686,686,686,albidoflavus_J1074_00283,albidoflavus_J1074_R2_00285,albidoflavus_SM254_00285,albidoflavus_UYFA156_00350,albidoflavus_W68_00293
+group_262,,hypothetical protein,5,5,1,1,580,,,,1019,1064,1046,albidoflavus_J1074_00284,albidoflavus_J1074_R2_00286,albidoflavus_SM254_00286,albidoflavus_UYFA156_00348,albidoflavus_W68_00291
+dnaA,,Chromosomal replication initiator protein DnaA,5,5,1,1,598,,,,1937,2093,2060,albidoflavus_J1074_00287,albidoflavus_J1074_R2_00329,albidoflavus_SM254_00289,albidoflavus_UYFA156_00283,albidoflavus_W68_00250
+group_267,,hypothetical protein,5,5,1,1,476,,,,1202,1220,1214,albidoflavus_J1074_00317,albidoflavus_J1074_R2_00393,albidoflavus_SM254_00326,albidoflavus_UYFA156_00272,albidoflavus_W68_00241
+group_268,,hypothetical protein,5,5,1,1,468,,,,599,599,599,albidoflavus_J1074_00323,albidoflavus_J1074_R2_00399,albidoflavus_SM254_00333,albidoflavus_UYFA156_00266,albidoflavus_W68_00235
+folP1,,Dihydropteroate synthase,5,5,1,1,465,,,,797,860,822,albidoflavus_J1074_00326,albidoflavus_J1074_R2_00402,albidoflavus_SM254_00336,albidoflavus_UYFA156_00263,albidoflavus_W68_00232
+group_270,,hypothetical protein,5,5,1,1,462,,,,761,761,761,albidoflavus_J1074_00329,albidoflavus_J1074_R2_00405,albidoflavus_SM254_00339,albidoflavus_UYFA156_00260,albidoflavus_W68_00229
+opuBC,,Choline-binding protein,5,5,1,1,461,,,,989,989,989,albidoflavus_J1074_00330,albidoflavus_J1074_R2_00406,albidoflavus_SM254_00340,albidoflavus_UYFA156_00259,albidoflavus_W68_00228
+group_272,,hypothetical protein,5,5,1,1,460,,,,1202,1220,1212,albidoflavus_J1074_00331,albidoflavus_J1074_R2_00407,albidoflavus_SM254_00341,albidoflavus_UYFA156_00258,albidoflavus_W68_00227
+group_274,,hypothetical protein,5,5,1,1,449,,,,1106,1106,1106,albidoflavus_J1074_00341,albidoflavus_J1074_R2_00417,albidoflavus_SM254_00351,albidoflavus_UYFA156_00245,albidoflavus_W68_00216
+ytrA,,HTH-type transcriptional repressor YtrA,5,5,1,1,448,,,,416,416,416,albidoflavus_J1074_00342,albidoflavus_J1074_R2_00418,albidoflavus_SM254_00352,albidoflavus_UYFA156_00244,albidoflavus_W68_00215
+group_276,,hypothetical protein,5,5,1,1,447,,,,371,371,371,albidoflavus_J1074_00343,albidoflavus_J1074_R2_00419,albidoflavus_SM254_00353,albidoflavus_UYFA156_00243,albidoflavus_W68_00214
+group_277,,hypothetical protein,5,5,1,1,444,,,,257,275,264,albidoflavus_J1074_00346,albidoflavus_J1074_R2_00422,albidoflavus_SM254_00356,albidoflavus_UYFA156_00240,albidoflavus_W68_00211
+sucD,,Succinate-semialdehyde dehydrogenase (acetylating),5,5,1,1,442,,,,1424,1427,1425,albidoflavus_J1074_00348,albidoflavus_J1074_R2_00424,albidoflavus_SM254_00358,albidoflavus_UYFA156_00238,albidoflavus_W68_00209
+group_279,,hypothetical protein,5,5,1,1,440,,,,176,176,176,albidoflavus_J1074_00350,albidoflavus_J1074_R2_00426,albidoflavus_SM254_00360,albidoflavus_UYFA156_00236,albidoflavus_W68_00207
+group_280,,hypothetical protein,5,5,1,1,438,,,,1262,1262,1262,albidoflavus_J1074_00352,albidoflavus_J1074_R2_00428,albidoflavus_SM254_00362,albidoflavus_UYFA156_00234,albidoflavus_W68_00205
+group_281,,hypothetical protein,5,5,1,1,436,,,,680,683,681,albidoflavus_J1074_00354,albidoflavus_J1074_R2_00430,albidoflavus_SM254_00364,albidoflavus_UYFA156_00232,albidoflavus_W68_00203
+group_282,,hypothetical protein,5,5,1,1,434,,,,533,533,533,albidoflavus_J1074_00356,albidoflavus_J1074_R2_00432,albidoflavus_SM254_00366,albidoflavus_UYFA156_00230,albidoflavus_W68_00201
+group_283,,hypothetical protein,5,5,1,1,432,,,,1046,1049,1047,albidoflavus_J1074_00358,albidoflavus_J1074_R2_00434,albidoflavus_SM254_00368,albidoflavus_UYFA156_00228,albidoflavus_W68_00199
+group_284,,hypothetical protein,5,5,1,1,431,,,,1205,1205,1205,albidoflavus_J1074_00359,albidoflavus_J1074_R2_00435,albidoflavus_SM254_00369,albidoflavus_UYFA156_00227,albidoflavus_W68_00198
+liaR,,Transcriptional regulatory protein LiaR,5,5,1,1,430,,,,494,689,650,albidoflavus_J1074_00360,albidoflavus_J1074_R2_00436,albidoflavus_SM254_00370,albidoflavus_UYFA156_00226,albidoflavus_W68_00197
+group_291,,hypothetical protein,5,5,1,1,425,,,,908,908,908,albidoflavus_J1074_00405,albidoflavus_J1074_R2_00481,albidoflavus_SM254_00414,albidoflavus_UYFA156_00222,albidoflavus_W68_00192
+iucD,,L-lysine N6-monooxygenase,5,5,1,1,422,,,,1310,1310,1310,albidoflavus_J1074_00408,albidoflavus_J1074_R2_00484,albidoflavus_SM254_00417,albidoflavus_UYFA156_00219,albidoflavus_W68_00189
+ddc,,"L-2,4-diaminobutyrate decarboxylase",5,5,1,1,421,,,,1457,1457,1457,albidoflavus_J1074_00409,albidoflavus_J1074_R2_00485,albidoflavus_SM254_00418,albidoflavus_UYFA156_00218,albidoflavus_W68_00188
+viuB,,Vibriobactin utilization protein ViuB,5,5,1,1,420,,,,866,866,866,albidoflavus_J1074_00410,albidoflavus_J1074_R2_00486,albidoflavus_SM254_00419,albidoflavus_UYFA156_00217,albidoflavus_W68_00187
+nicR,,HTH-type transcriptional repressor NicR,5,5,1,1,416,,,,512,512,512,albidoflavus_J1074_00413,albidoflavus_J1074_R2_00489,albidoflavus_SM254_00423,albidoflavus_UYFA156_00214,albidoflavus_W68_00184
+nemA,,N-ethylmaleimide reductase,5,5,1,1,415,,,,1061,1061,1061,albidoflavus_J1074_00414,albidoflavus_J1074_R2_00490,albidoflavus_SM254_00424,albidoflavus_UYFA156_00213,albidoflavus_W68_00183
+dltA_1,,D-alanine--D-alanyl carrier protein ligase,5,5,1,1,1010,,,,3128,10766,8448,albidoflavus_J1074_00022,albidoflavus_J1074_R2_00022,albidoflavus_SM254_00073,albidoflavus_UYFA156_00545,albidoflavus_W68_00477
+group_301,,hypothetical protein,5,5,1,1,361,,,,593,593,593,albidoflavus_J1074_00466,albidoflavus_J1074_R2_00542,albidoflavus_SM254_00475,albidoflavus_UYFA156_00203,albidoflavus_W68_00173
+ycdX,,phosphatase YcdX,5,5,1,1,356,,,,1073,1073,1073,albidoflavus_J1074_00471,albidoflavus_J1074_R2_00547,albidoflavus_SM254_00480,albidoflavus_UYFA156_00199,albidoflavus_W68_00169
+group_303,,hypothetical protein,5,5,1,1,355,,,,1232,1238,1235,albidoflavus_J1074_00472,albidoflavus_J1074_R2_00548,albidoflavus_SM254_00481,albidoflavus_UYFA156_00198,albidoflavus_W68_00168
+carA2,,zeta-carotene-forming phytoene desaturase,5,5,1,1,354,,,,1541,1541,1541,albidoflavus_J1074_00473,albidoflavus_J1074_R2_00549,albidoflavus_SM254_00482,albidoflavus_UYFA156_00197,albidoflavus_W68_00167
+pds,,15-cis-phytoene desaturase,5,5,1,1,348,,,,1559,1559,1559,albidoflavus_J1074_00479,albidoflavus_J1074_R2_00554,albidoflavus_SM254_00487,albidoflavus_UYFA156_00192,albidoflavus_W68_00164
+group_306,,hypothetical protein,5,5,1,1,347,,,,1262,1262,1262,albidoflavus_J1074_00480,albidoflavus_J1074_R2_00555,albidoflavus_SM254_00488,albidoflavus_UYFA156_00191,albidoflavus_W68_00163
+group_307,,hypothetical protein,5,5,1,1,346,,,,1313,1325,1317,albidoflavus_J1074_00481,albidoflavus_J1074_R2_00556,albidoflavus_SM254_00489,albidoflavus_UYFA156_00190,albidoflavus_W68_00162
+group_308,,hypothetical protein,5,5,1,1,345,,,,950,950,950,albidoflavus_J1074_00482,albidoflavus_J1074_R2_00557,albidoflavus_SM254_00490,albidoflavus_UYFA156_00189,albidoflavus_W68_00161
+rosB,,8-demethyl-8-aminoriboflavin-5'-phosphate synthase,5,5,1,1,344,,,,722,722,722,albidoflavus_J1074_00483,albidoflavus_J1074_R2_00558,albidoflavus_SM254_00491,albidoflavus_UYFA156_00188,albidoflavus_W68_00160
+rpsR1,,30S ribosomal protein S18 1,5,5,1,1,343,,,,239,239,239,albidoflavus_J1074_00484,albidoflavus_J1074_R2_00559,albidoflavus_SM254_00492,albidoflavus_UYFA156_00187,albidoflavus_W68_00159
+yciC,,Putative metal chaperone YciC,5,5,1,1,342,,,,1148,1148,1148,albidoflavus_J1074_00485,albidoflavus_J1074_R2_00560,albidoflavus_SM254_00493,albidoflavus_UYFA156_00186,albidoflavus_W68_00158
+rpmB,,hypothetical protein,5,5,1,1,339,,,,236,293,270,albidoflavus_J1074_00488,albidoflavus_J1074_R2_00563,albidoflavus_SM254_00496,albidoflavus_UYFA156_00183,albidoflavus_W68_00155
+rpsN,,30S ribosomal protein S14,5,5,1,1,338,,,,305,305,305,albidoflavus_J1074_00489,albidoflavus_J1074_R2_00564,albidoflavus_SM254_00497,albidoflavus_UYFA156_00182,albidoflavus_W68_00154
+group_314,,hypothetical protein,5,5,1,1,337,,,,359,359,359,albidoflavus_J1074_00490,albidoflavus_J1074_R2_00565,albidoflavus_SM254_00498,albidoflavus_UYFA156_00181,albidoflavus_W68_00153
+adhA,,putative alcohol dehydrogenase AdhA,5,5,1,1,335,,,,1043,1190,1101,albidoflavus_J1074_00492,albidoflavus_J1074_R2_00567,albidoflavus_SM254_00500,albidoflavus_UYFA156_00179,albidoflavus_W68_00151
+subB,,Ferredoxin-2,5,5,1,1,334,,,,152,200,180,albidoflavus_J1074_00493,albidoflavus_J1074_R2_00568,albidoflavus_SM254_00501,albidoflavus_UYFA156_00178,albidoflavus_W68_00150
+group_318,,hypothetical protein,5,5,1,1,319,,,,350,503,441,albidoflavus_J1074_00503,albidoflavus_J1074_R2_00578,albidoflavus_SM254_00510,albidoflavus_UYFA156_00168,albidoflavus_W68_00140
+fabG_2,,3-oxoacyl-[acyl-carrier-protein] reductase FabG,5,5,1,1,304,,,,755,755,755,albidoflavus_J1074_00514,albidoflavus_J1074_R2_00589,albidoflavus_SM254_00521,albidoflavus_UYFA156_00158,albidoflavus_W68_00130
+osmX,,Osmoprotectant-binding protein OsmX,5,5,1,1,298,,,,944,944,944,albidoflavus_J1074_00520,albidoflavus_J1074_R2_00595,albidoflavus_SM254_00527,albidoflavus_UYFA156_00152,albidoflavus_W68_00124
+pip,,Proline iminopeptidase,5,5,1,1,296,,,,1313,1364,1343,albidoflavus_J1074_00522,albidoflavus_J1074_R2_00597,albidoflavus_SM254_00529,albidoflavus_UYFA156_00150,albidoflavus_W68_00122
+mca,,Mycothiol S-conjugate amidase,5,5,1,1,295,,,,731,731,731,albidoflavus_J1074_00523,albidoflavus_J1074_R2_00598,albidoflavus_SM254_00530,albidoflavus_UYFA156_00149,albidoflavus_W68_00121
+qorA,,Quinone oxidoreductase 1,5,5,1,1,293,,,,968,968,968,albidoflavus_J1074_00525,albidoflavus_J1074_R2_00600,albidoflavus_SM254_00532,albidoflavus_UYFA156_00147,albidoflavus_W68_00119
+group_326,,Acyl-CoA dehydrogenase FadE27,5,5,1,1,291,,,,1121,1121,1121,albidoflavus_J1074_00527,albidoflavus_J1074_R2_00602,albidoflavus_SM254_00534,albidoflavus_UYFA156_00145,albidoflavus_W68_00117
+appA,,Oligopeptide-binding protein AppA,5,5,1,1,290,,,,1607,1607,1607,albidoflavus_J1074_00528,albidoflavus_J1074_R2_00603,albidoflavus_SM254_00535,albidoflavus_UYFA156_00144,albidoflavus_W68_00116
+oppD,,Oligopeptide transport ATP-binding protein OppD,5,5,1,1,287,,,,1001,1001,1001,albidoflavus_J1074_00531,albidoflavus_J1074_R2_00606,albidoflavus_SM254_00538,albidoflavus_UYFA156_00141,albidoflavus_W68_00113
+group_329,,hypothetical protein,5,5,1,1,282,,,,395,395,395,albidoflavus_J1074_00536,albidoflavus_J1074_R2_00611,albidoflavus_SM254_00543,albidoflavus_UYFA156_00134,albidoflavus_W68_00105
+group_331,,hypothetical protein,5,5,1,1,277,,,,629,629,629,albidoflavus_J1074_00542,albidoflavus_J1074_R2_00617,albidoflavus_SM254_00548,albidoflavus_UYFA156_00131,albidoflavus_W68_00102
+group_332,,hypothetical protein,5,5,1,1,275,,,,782,782,782,albidoflavus_J1074_00544,albidoflavus_J1074_R2_00619,albidoflavus_SM254_00550,albidoflavus_UYFA156_00129,albidoflavus_W68_00100
+group_333,,hypothetical protein,5,5,1,1,274,,,,467,467,467,albidoflavus_J1074_00545,albidoflavus_J1074_R2_00620,albidoflavus_SM254_00551,albidoflavus_UYFA156_00128,albidoflavus_W68_00099
+group_334,,hypothetical protein,5,5,1,1,273,,,,680,680,680,albidoflavus_J1074_00546,albidoflavus_J1074_R2_00621,albidoflavus_SM254_00552,albidoflavus_UYFA156_00127,albidoflavus_W68_00098
+group_335,,hypothetical protein,5,5,1,1,271,,,,587,587,587,albidoflavus_J1074_00548,albidoflavus_J1074_R2_00623,albidoflavus_SM254_00554,albidoflavus_UYFA156_00125,albidoflavus_W68_00096
+hcaB,,3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase,5,5,1,1,270,,,,902,902,902,albidoflavus_J1074_00549,albidoflavus_J1074_R2_00624,albidoflavus_SM254_00555,albidoflavus_UYFA156_00124,albidoflavus_W68_00095
+group_337,,hypothetical protein,5,5,1,1,269,,,,1157,1160,1158,albidoflavus_J1074_00550,albidoflavus_J1074_R2_00625,albidoflavus_SM254_00556,albidoflavus_UYFA156_00123,albidoflavus_W68_00094
+group_338,,"(2E,6E)-farnesyl diphosphate synthase",5,5,1,1,268,,,,1118,1118,1118,albidoflavus_J1074_00551,albidoflavus_J1074_R2_00626,albidoflavus_SM254_00557,albidoflavus_UYFA156_00122,albidoflavus_W68_00093
+group_339,,hypothetical protein,5,5,1,1,267,,,,179,179,179,albidoflavus_J1074_00552,albidoflavus_J1074_R2_00627,albidoflavus_SM254_00558,albidoflavus_UYFA156_00121,albidoflavus_W68_00092
+drrB,,Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB,5,5,1,1,254,,,,842,842,842,albidoflavus_J1074_00563,albidoflavus_J1074_R2_00638,albidoflavus_SM254_00569,albidoflavus_UYFA156_00098,albidoflavus_W68_00078
+drrA_2,,Daunorubicin/doxorubicin resistance ATP-binding protein DrrA,5,5,1,1,253,,,,1007,1007,1007,albidoflavus_J1074_00564,albidoflavus_J1074_R2_00639,albidoflavus_SM254_00570,albidoflavus_UYFA156_00097,albidoflavus_W68_00077
+menF,,Isochorismate synthase MenF,5,5,1,1,250,,,,2171,2171,2171,albidoflavus_J1074_00566,albidoflavus_J1074_R2_00641,albidoflavus_SM254_00572,albidoflavus_UYFA156_00092,albidoflavus_W68_00075
+pikAV_2,,Thioesterase PikA5,5,5,1,1,249,,,,770,770,770,albidoflavus_J1074_00567,albidoflavus_J1074_R2_00642,albidoflavus_SM254_00573,albidoflavus_UYFA156_00091,albidoflavus_W68_00074
+group_344,,hypothetical protein,5,5,1,1,240,,,,773,773,773,albidoflavus_J1074_00576,albidoflavus_J1074_R2_00651,albidoflavus_SM254_00582,albidoflavus_UYFA156_00081,albidoflavus_W68_00065
+mglA,,Galactose/methyl galactoside import ATP-binding protein MglA,5,5,1,1,237,,,,800,800,800,albidoflavus_J1074_00579,albidoflavus_J1074_R2_00654,albidoflavus_SM254_00585,albidoflavus_UYFA156_00078,albidoflavus_W68_00062
+group_346,,hypothetical protein,5,5,1,1,236,,,,2042,2042,2042,albidoflavus_J1074_00580,albidoflavus_J1074_R2_00655,albidoflavus_SM254_00586,albidoflavus_UYFA156_00077,albidoflavus_W68_00061
+group_347,,Serine protease inhibitor,5,5,1,1,234,,,,404,404,404,albidoflavus_J1074_00582,albidoflavus_J1074_R2_00657,albidoflavus_SM254_00588,albidoflavus_UYFA156_00075,albidoflavus_W68_00059
+paaE,,"1,2-phenylacetyl-CoA epoxidase, subunit E",5,5,1,1,229,,,,1103,1103,1103,albidoflavus_J1074_00586,albidoflavus_J1074_R2_00661,albidoflavus_SM254_00593,albidoflavus_UYFA156_00070,albidoflavus_W68_00054
+paaD,,"Putative 1,2-phenylacetyl-CoA epoxidase, subunit D",5,5,1,1,228,,,,518,518,518,albidoflavus_J1074_00587,albidoflavus_J1074_R2_00662,albidoflavus_SM254_00594,albidoflavus_UYFA156_00069,albidoflavus_W68_00053
+paaC,,"1,2-phenylacetyl-CoA epoxidase, subunit C",5,5,1,1,227,,,,788,788,788,albidoflavus_J1074_00588,albidoflavus_J1074_R2_00663,albidoflavus_SM254_00595,albidoflavus_UYFA156_00068,albidoflavus_W68_00052
+paaA,,"1,2-phenylacetyl-CoA epoxidase, subunit A",5,5,1,1,225,,,,1055,1055,1055,albidoflavus_J1074_00590,albidoflavus_J1074_R2_00665,albidoflavus_SM254_00597,albidoflavus_UYFA156_00066,albidoflavus_W68_00050
+group_352,,hypothetical protein,5,5,1,1,224,,,,248,257,253,albidoflavus_J1074_00591,albidoflavus_J1074_R2_00666,albidoflavus_SM254_00598,albidoflavus_UYFA156_00065,albidoflavus_W68_00049
+group_353,,hypothetical protein,5,5,1,1,221,,,,3821,3821,3821,albidoflavus_J1074_00594,albidoflavus_J1074_R2_00669,albidoflavus_SM254_00601,albidoflavus_UYFA156_00062,albidoflavus_W68_00046
+group_354,,hypothetical protein,5,5,1,1,218,,,,1310,1310,1310,albidoflavus_J1074_00596,albidoflavus_J1074_R2_00671,albidoflavus_SM254_00603,albidoflavus_UYFA156_00060,albidoflavus_W68_00043
+group_356,,hypothetical protein,5,5,1,1,908,,,,3005,3023,3015,albidoflavus_J1074_00601,albidoflavus_J1074_R2_00676,albidoflavus_SM254_00608,albidoflavus_UYFA156_00053,albidoflavus_W68_00039
+group_357,,hypothetical protein,5,5,1,1,910,,,,2822,2921,2882,albidoflavus_J1074_00603,albidoflavus_J1074_R2_00678,albidoflavus_SM254_00610,albidoflavus_UYFA156_00051,albidoflavus_W68_00037
+afsR_2,,Regulatory protein AfsR,5,5,1,1,911,,,,1802,1802,1802,albidoflavus_J1074_00604,albidoflavus_J1074_R2_00679,albidoflavus_SM254_00611,albidoflavus_UYFA156_00050,albidoflavus_W68_00036
+ramC_2,,putative SapB synthase,5,5,1,1,912,,,,2591,2591,2591,albidoflavus_J1074_00605,albidoflavus_J1074_R2_00680,albidoflavus_SM254_00612,albidoflavus_UYFA156_00049,albidoflavus_W68_00035
+entS_2,,Enterobactin exporter EntS,5,5,1,1,913,,,,1343,1343,1343,albidoflavus_J1074_00606,albidoflavus_J1074_R2_00681,albidoflavus_SM254_00613,albidoflavus_UYFA156_00048,albidoflavus_W68_00034
+group_361,,hypothetical protein,5,5,1,1,914,,,,167,167,167,albidoflavus_J1074_00607,albidoflavus_J1074_R2_00682,albidoflavus_SM254_00614,albidoflavus_UYFA156_00047,albidoflavus_W68_00033
+group_362,,hypothetical protein,5,5,1,1,915,,,,1097,1097,1097,albidoflavus_J1074_00608,albidoflavus_J1074_R2_00683,albidoflavus_SM254_00615,albidoflavus_UYFA156_00046,albidoflavus_W68_00032
+group_363,,hypothetical protein,5,5,1,1,916,,,,734,734,734,albidoflavus_J1074_00609,albidoflavus_J1074_R2_00684,albidoflavus_SM254_00616,albidoflavus_UYFA156_00045,albidoflavus_W68_00031
+group_364,,hypothetical protein,5,5,1,1,917,,,,206,206,206,albidoflavus_J1074_00610,albidoflavus_J1074_R2_00685,albidoflavus_SM254_00617,albidoflavus_UYFA156_00044,albidoflavus_W68_00030
+group_365,,hypothetical protein,5,5,1,1,918,,,,3143,3146,3144,albidoflavus_J1074_00611,albidoflavus_J1074_R2_00686,albidoflavus_SM254_00618,albidoflavus_UYFA156_00043,albidoflavus_W68_00029
+group_366,,hypothetical protein,5,5,1,1,923,,,,314,314,314,albidoflavus_J1074_00616,albidoflavus_J1074_R2_00691,albidoflavus_SM254_00623,albidoflavus_UYFA156_00039,albidoflavus_W68_00025
+group_367,,hypothetical protein,5,5,1,1,244,,,,2906,2912,2910,albidoflavus_J1074_00572,albidoflavus_J1074_R2_00647,albidoflavus_SM254_00578,albidoflavus_UYFA156_00085,albidoflavus_W68_00069
+group_392,,hypothetical protein,5,5,1,1,835,,,,2453,2489,2471,albidoflavus_J1074_00064,albidoflavus_J1074_R2_00064,albidoflavus_SM254_00115,albidoflavus_UYFA156_00498,albidoflavus_W68_00434
+ramR,,Response regulator RamR,5,5,1,1,641,,,,698,743,722,albidoflavus_J1074_00274,albidoflavus_J1074_R2_00276,albidoflavus_SM254_00276,albidoflavus_UYFA156_00362,albidoflavus_W68_00302
+dltA_8,,D-alanine--D-alanyl carrier protein ligase,5,5,1,1,927,,,,9212,9281,9237,albidoflavus_J1074_00620,albidoflavus_J1074_R2_00695,albidoflavus_SM254_00627,albidoflavus_UYFA156_00035,albidoflavus_W68_00021
+group_40,btuD_2,Vitamin B12 import ATP-binding protein BtuD,5,5,1,1,640,,,,746,1934,1694,albidoflavus_J1074_00275,albidoflavus_J1074_R2_00277,albidoflavus_SM254_00277,albidoflavus_UYFA156_00361,albidoflavus_W68_00301
+lgrB_1,,Linear gramicidin synthase subunit B,5,5,1,1,451,,,,8726,17183,15489,albidoflavus_J1074_00339,albidoflavus_J1074_R2_00415,albidoflavus_SM254_00349,albidoflavus_UYFA156_00247,albidoflavus_W68_00218
+TDO2,,hypothetical protein,5,5,1,1,232,,,,800,1637,1162,albidoflavus_J1074_00584,albidoflavus_J1074_R2_00659,albidoflavus_SM254_00590,albidoflavus_UYFA156_00073,albidoflavus_W68_00057
+dltA_7,,D-alanine--D-alanyl carrier protein ligase,5,5,1,1,215,,,,8249,10760,10253,albidoflavus_J1074_00599,albidoflavus_J1074_R2_00674,albidoflavus_SM254_00606,albidoflavus_UYFA156_00057,albidoflavus_W68_00041
+betI_1,,HTH-type transcriptional regulator BetI,5,5,1,1,992,,,,743,857,811,albidoflavus_J1074_00008,albidoflavus_J1074_R2_00008,albidoflavus_SM254_00641,albidoflavus_UYFA156_00019,albidoflavus_W68_00008
+cpdA,,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",5,5,1,1,1020,,,,437,968,755,albidoflavus_J1074_00032,albidoflavus_J1074_R2_00032,albidoflavus_SM254_00082,albidoflavus_UYFA156_00536,albidoflavus_W68_00468
+group_56,,hypothetical protein,5,5,1,1,842,,,,326,944,820,albidoflavus_J1074_00060,albidoflavus_J1074_R2_00060,albidoflavus_SM254_00111,albidoflavus_UYFA156_00502,albidoflavus_W68_00438
+aguA,,Agmatine deiminase,5,5,1,1,695,,,,557,1079,974,albidoflavus_J1074_00212,albidoflavus_J1074_R2_00213,albidoflavus_SM254_00226,albidoflavus_UYFA156_00421,albidoflavus_W68_00356
+yedK,,SOS response-associated protein YedK,5,5,1,1,680,,,,572,872,812,albidoflavus_J1074_00227,albidoflavus_J1074_R2_00228,albidoflavus_SM254_00241,albidoflavus_UYFA156_00404,albidoflavus_W68_00340
+aam,,Acylamidase,5,5,1,1,669,,,,1367,1475,1409,albidoflavus_J1074_00236,albidoflavus_J1074_R2_00237,albidoflavus_SM254_00250,albidoflavus_UYFA156_00394,albidoflavus_W68_00331
+btuD_2,,hypothetical protein,5,5,1,1,662,,,,461,1748,894,albidoflavus_J1074_00242,albidoflavus_J1074_R2_00243,albidoflavus_SM254_00256,albidoflavus_UYFA156_00388,albidoflavus_W68_00325
+group_66,,hypothetical protein,5,5,1,1,656,,,,1340,2222,2045,albidoflavus_J1074_00249,albidoflavus_J1074_R2_00250,albidoflavus_SM254_00262,albidoflavus_UYFA156_00380,albidoflavus_W68_00317
+ramA,,ABC transporter ATP-binding protein RamA,5,5,1,1,572,,,,1049,1895,1703,albidoflavus_J1074_00276,albidoflavus_J1074_R2_00278,albidoflavus_SM254_00278,albidoflavus_UYFA156_00358,albidoflavus_W68_00300
+ramC_1,,putative SapB synthase,5,5,1,1,574,,,,1478,2579,2358,albidoflavus_J1074_00278,albidoflavus_J1074_R2_00280,albidoflavus_SM254_00280,albidoflavus_UYFA156_00355,albidoflavus_W68_00298
+group_73,,hypothetical protein,5,5,1,1,581,,,,596,1955,1679,albidoflavus_J1074_00285,albidoflavus_J1074_R2_00287,albidoflavus_SM254_00287,albidoflavus_UYFA156_00347,albidoflavus_W68_00290
+tilS,,tRNA(Ile)-lysidine synthase,5,5,1,1,473,,,,950,1238,1168,albidoflavus_J1074_00318,albidoflavus_J1074_R2_00394,albidoflavus_SM254_00328,albidoflavus_UYFA156_00271,albidoflavus_W68_00240
+group_77,,hypothetical protein,5,5,1,1,458,,,,185,308,283,albidoflavus_J1074_00333,albidoflavus_J1074_R2_00409,albidoflavus_SM254_00343,albidoflavus_UYFA156_00256,albidoflavus_W68_00225
+lgrD_2,,Linear gramicidin synthase subunit D,5,5,1,1,454,,,,7643,12398,11414,albidoflavus_J1074_00336,albidoflavus_J1074_R2_00412,albidoflavus_SM254_00346,albidoflavus_UYFA156_00254,albidoflavus_W68_00222
+dltA_4,,D-alanine--D-alanyl carrier protein ligase,5,5,1,1,453,,,,21011,23075,22661,albidoflavus_J1074_00337,albidoflavus_J1074_R2_00413,albidoflavus_SM254_00347,albidoflavus_UYFA156_00252,albidoflavus_W68_00221
+group_82,,hypothetical protein,5,5,1,1,303,,,,515,560,534,albidoflavus_J1074_00515,albidoflavus_J1074_R2_00590,albidoflavus_SM254_00522,albidoflavus_UYFA156_00157,albidoflavus_W68_00129
+group_84,,hypothetical protein,5,5,1,1,276,,,,497,512,506,albidoflavus_J1074_00543,albidoflavus_J1074_R2_00618,albidoflavus_SM254_00549,albidoflavus_UYFA156_00130,albidoflavus_W68_00101
+hmp,,Flavohemoprotein,5,5,1,1,265,,,,1238,1319,1302,albidoflavus_J1074_00554,albidoflavus_J1074_R2_00629,albidoflavus_SM254_00560,albidoflavus_UYFA156_00119,albidoflavus_W68_00090
+group_87,,hypothetical protein,5,5,1,1,264,,,,722,1469,1289,albidoflavus_J1074_00555,albidoflavus_J1074_R2_00630,albidoflavus_SM254_00561,albidoflavus_UYFA156_00118,albidoflavus_W68_00089
+fadA_2,,3-ketoacyl-CoA thiolase,5,5,1,1,256,,,,6434,16622,14583,albidoflavus_J1074_00561,albidoflavus_J1074_R2_00636,albidoflavus_SM254_00567,albidoflavus_UYFA156_00101,albidoflavus_W68_00080
+menE,,2-succinylbenzoate--CoA ligase,5,5,1,1,251,,,,3500,5228,4882,albidoflavus_J1074_00565,albidoflavus_J1074_R2_00640,albidoflavus_SM254_00571,albidoflavus_UYFA156_00093,albidoflavus_W68_00076
+suaB,,Ferredoxin-1,5,5,1,1,248,,,,194,194,194,albidoflavus_J1074_00568,albidoflavus_J1074_R2_00643,albidoflavus_SM254_00574,albidoflavus_UYFA156_00090,albidoflavus_W68_00073
+hpt,,Hypoxanthine-guanine phosphoribosyltransferase,5,5,1,1,472,,,,539,539,539,albidoflavus_J1074_00319,albidoflavus_J1074_R2_00395,albidoflavus_SM254_00329,albidoflavus_UYFA156_00270,albidoflavus_W68_00239
+folE,,GTP cyclohydrolase 1,5,5,1,1,470,,,,605,605,605,albidoflavus_J1074_00321,albidoflavus_J1074_R2_00397,albidoflavus_SM254_00331,albidoflavus_UYFA156_00268,albidoflavus_W68_00237
+group_913,,hypothetical protein,5,5,1,1,909,,,,191,191,191,albidoflavus_J1074_00602,albidoflavus_J1074_R2_00677,albidoflavus_SM254_00609,albidoflavus_UYFA156_00052,albidoflavus_W68_00038
+algU,,RNA polymerase sigma-H factor,5,5,1,1,217,,,,521,521,521,albidoflavus_J1074_00597,albidoflavus_J1074_R2_00672,albidoflavus_SM254_00604,albidoflavus_UYFA156_00059,albidoflavus_W68_00042
+ectC,,L-ectoine synthase,5,5,1,1,413,,,,398,398,398,albidoflavus_J1074_00416,albidoflavus_J1074_R2_00492,albidoflavus_SM254_00426,albidoflavus_UYFA156_00211,albidoflavus_W68_00181
+group_918,,hypothetical protein,5,5,1,1,357,,,,368,368,368,albidoflavus_J1074_00470,albidoflavus_J1074_R2_00546,albidoflavus_SM254_00479,albidoflavus_UYFA156_00200,albidoflavus_W68_00170
+group_919,,putative protein/MSMEI_2713,5,5,1,1,769,,,,716,716,716,albidoflavus_J1074_00148,albidoflavus_J1074_R2_00148,albidoflavus_SM254_00163,albidoflavus_UYFA156_00453,albidoflavus_W68_00386
+group_92,,hypothetical protein,5,5,1,1,243,,,,2384,3119,2950,albidoflavus_J1074_00573,albidoflavus_J1074_R2_00648,albidoflavus_SM254_00579,albidoflavus_UYFA156_00084,albidoflavus_W68_00068
+gdx,,Guanidinium exporter,5,5,1,1,674,,,,323,323,323,albidoflavus_J1074_00231,albidoflavus_J1074_R2_00232,albidoflavus_SM254_00245,albidoflavus_UYFA156_00400,albidoflavus_W68_00336
+ramS,,Lanthionine-containing peptide SapB precursor RamS,5,5,1,1,573,,,,131,131,131,albidoflavus_J1074_00277,albidoflavus_J1074_R2_00279,albidoflavus_SM254_00279,albidoflavus_UYFA156_00357,albidoflavus_W68_00299
+lexA,,LexA repressor,5,5,1,1,721,,,,785,785,785,albidoflavus_J1074_00188,albidoflavus_J1074_R2_00188,albidoflavus_SM254_00201,albidoflavus_UYFA156_00449,albidoflavus_W68_00382
+group_923,,hypothetical protein,5,5,1,1,643,,,,383,383,383,albidoflavus_J1074_00272,albidoflavus_J1074_R2_00274,albidoflavus_SM254_00274,albidoflavus_UYFA156_00364,albidoflavus_W68_00304
+moaA,,"GTP 3',8-cyclase",5,5,1,1,821,,,,1022,1022,1022,albidoflavus_J1074_00083,albidoflavus_J1074_R2_00083,albidoflavus_SM254_00133,albidoflavus_UYFA156_00484,albidoflavus_W68_00415
+btuD_1,,Vitamin B12 import ATP-binding protein BtuD,5,5,1,1,813,,,,797,797,797,albidoflavus_J1074_00091,albidoflavus_J1074_R2_00091,albidoflavus_SM254_00141,albidoflavus_UYFA156_00475,albidoflavus_W68_00407
+group_926,,hypothetical protein,5,5,1,1,441,,,,947,947,947,albidoflavus_J1074_00349,albidoflavus_J1074_R2_00425,albidoflavus_SM254_00359,albidoflavus_UYFA156_00237,albidoflavus_W68_00208
+group_927,,hypothetical protein,5,5,1,1,684,,,,992,992,992,albidoflavus_J1074_00223,albidoflavus_J1074_R2_00224,albidoflavus_SM254_00237,albidoflavus_UYFA156_00409,albidoflavus_W68_00344
+group_928,,hypothetical protein,5,5,1,1,920,,,,587,587,587,albidoflavus_J1074_00613,albidoflavus_J1074_R2_00688,albidoflavus_SM254_00620,albidoflavus_UYFA156_00041,albidoflavus_W68_00027
+rsgA,,Small ribosomal subunit biogenesis GTPase RsgA,5,5,1,1,675,,,,1016,1016,1016,albidoflavus_J1074_00230,albidoflavus_J1074_R2_00231,albidoflavus_SM254_00244,albidoflavus_UYFA156_00401,albidoflavus_W68_00337
+group_930,,hypothetical protein,5,5,1,1,245,,,,1376,1376,1376,albidoflavus_J1074_00571,albidoflavus_J1074_R2_00646,albidoflavus_SM254_00577,albidoflavus_UYFA156_00086,albidoflavus_W68_00070
+opuBB_2,,Choline transport system permease protein OpuBB,5,5,1,1,300,,,,683,683,683,albidoflavus_J1074_00518,albidoflavus_J1074_R2_00593,albidoflavus_SM254_00525,albidoflavus_UYFA156_00154,albidoflavus_W68_00126
+group_932,,hypothetical protein,5,5,1,1,445,,,,797,797,797,albidoflavus_J1074_00345,albidoflavus_J1074_R2_00421,albidoflavus_SM254_00355,albidoflavus_UYFA156_00241,albidoflavus_W68_00212
+group_933,,hypothetical protein,5,5,1,1,428,,,,524,524,524,albidoflavus_J1074_00402,albidoflavus_J1074_R2_00478,albidoflavus_SM254_00411,albidoflavus_UYFA156_00224,albidoflavus_W68_00195
+group_934,,hypothetical protein,5,5,1,1,423,,,,602,605,603,albidoflavus_J1074_00407,albidoflavus_J1074_R2_00483,albidoflavus_SM254_00416,albidoflavus_UYFA156_00220,albidoflavus_W68_00190
+lfrA_1,,Multidrug efflux pump LfrA,5,5,1,1,1000,,,,1556,1556,1556,albidoflavus_J1074_00013,albidoflavus_J1074_R2_00013,albidoflavus_SM254_00636,albidoflavus_UYFA156_00024,albidoflavus_W68_00013
+def,,Peptide deformylase,5,5,1,1,685,,,,656,656,656,albidoflavus_J1074_00222,albidoflavus_J1074_R2_00223,albidoflavus_SM254_00236,albidoflavus_UYFA156_00410,albidoflavus_W68_00345
+group_939,,hypothetical protein,5,5,1,1,919,,,,875,875,875,albidoflavus_J1074_00612,albidoflavus_J1074_R2_00687,albidoflavus_SM254_00619,albidoflavus_UYFA156_00042,albidoflavus_W68_00028
+dltA_6,,D-alanine--D-alanyl carrier protein ligase,5,5,1,1,220,,,,833,8699,7124,albidoflavus_J1074_00595,albidoflavus_J1074_R2_00670,albidoflavus_SM254_00602,albidoflavus_UYFA156_00061,albidoflavus_W68_00045
+group_945,,hypothetical protein,5,5,1,1,809,,,,1061,1061,1061,albidoflavus_J1074_00095,albidoflavus_J1074_R2_00095,albidoflavus_SM254_00145,albidoflavus_UYFA156_00471,albidoflavus_W68_00403
+sigR,,ECF RNA polymerase sigma factor SigR,5,5,1,1,682,,,,845,845,845,albidoflavus_J1074_00225,albidoflavus_J1074_R2_00226,albidoflavus_SM254_00239,albidoflavus_UYFA156_00407,albidoflavus_W68_00342
+group_949,,hypothetical protein,5,5,1,1,997,,,,587,587,587,albidoflavus_J1074_00010,albidoflavus_J1074_R2_00010,albidoflavus_SM254_00639,albidoflavus_UYFA156_00021,albidoflavus_W68_00010
+group_95,,hypothetical protein,5,5,1,1,212,,,,611,1376,1194,albidoflavus_J1074_00600,albidoflavus_J1074_R2_00675,albidoflavus_SM254_00607,albidoflavus_UYFA156_00055,albidoflavus_W68_00040
+ectB,,Diaminobutyrate--2-oxoglutarate transaminase,5,5,1,1,412,,,,1271,1271,1271,albidoflavus_J1074_00417,albidoflavus_J1074_R2_00493,albidoflavus_SM254_00427,albidoflavus_UYFA156_00210,albidoflavus_W68_00180
+group_953,,"(2E,6E)-farnesyl diphosphate synthase",5,5,1,1,817,,,,1067,1067,1067,albidoflavus_J1074_00087,albidoflavus_J1074_R2_00087,albidoflavus_SM254_00137,albidoflavus_UYFA156_00480,albidoflavus_W68_00411
+nrdB,,Ribonucleoside-diphosphate reductase subunit beta,5,5,1,1,688,,,,1052,1052,1052,albidoflavus_J1074_00219,albidoflavus_J1074_R2_00220,albidoflavus_SM254_00233,albidoflavus_UYFA156_00413,albidoflavus_W68_00348
+aroA,,3-phosphoshikimate 1-carboxyvinyltransferase,5,5,1,1,676,,,,1352,1352,1352,albidoflavus_J1074_00229,albidoflavus_J1074_R2_00230,albidoflavus_SM254_00243,albidoflavus_UYFA156_00402,albidoflavus_W68_00338
+rsrA,,Anti-sigma factor RsrA,5,5,1,1,683,,,,308,308,308,albidoflavus_J1074_00224,albidoflavus_J1074_R2_00225,albidoflavus_SM254_00238,albidoflavus_UYFA156_00408,albidoflavus_W68_00343
+xylA,,Xylose isomerase,5,5,1,1,1033,,,,1166,1166,1166,albidoflavus_J1074_00050,albidoflavus_J1074_R2_00050,albidoflavus_SM254_00101,albidoflavus_UYFA156_00515,albidoflavus_W68_00447
+nqo4,,NADH-quinone oxidoreductase subunit 4,5,5,1,1,433,,,,1142,1142,1142,albidoflavus_J1074_00357,albidoflavus_J1074_R2_00433,albidoflavus_SM254_00367,albidoflavus_UYFA156_00229,albidoflavus_W68_00200
+group_961,,hypothetical protein,5,5,1,1,808,,,,752,752,752,albidoflavus_J1074_00096,albidoflavus_J1074_R2_00096,albidoflavus_SM254_00146,albidoflavus_UYFA156_00470,albidoflavus_W68_00402
+glmS,,Glutamine--fructose-6-phosphate aminotransferase [isomerizing],5,5,1,1,427,,,,1829,1829,1829,albidoflavus_J1074_00403,albidoflavus_J1074_R2_00479,albidoflavus_SM254_00412,albidoflavus_UYFA156_00223,albidoflavus_W68_00194
+crtB_1,,Phytoene synthase,5,5,1,1,815,,,,950,956,953,albidoflavus_J1074_00089,albidoflavus_J1074_R2_00089,albidoflavus_SM254_00139,albidoflavus_UYFA156_00478,albidoflavus_W68_00409
+acm,,Lysozyme M1,5,5,1,1,836,,,,884,884,884,albidoflavus_J1074_00063,albidoflavus_J1074_R2_00063,albidoflavus_SM254_00114,albidoflavus_UYFA156_00499,albidoflavus_W68_00435
+czcD,,Metal cation efflux system protein CzcD,5,5,1,1,806,,,,938,938,938,albidoflavus_J1074_00098,albidoflavus_J1074_R2_00098,albidoflavus_SM254_00148,albidoflavus_UYFA156_00468,albidoflavus_W68_00400
+bpoC,,Putative non-heme bromoperoxidase BpoC,5,5,1,1,443,,,,809,809,809,albidoflavus_J1074_00347,albidoflavus_J1074_R2_00423,albidoflavus_SM254_00357,albidoflavus_UYFA156_00239,albidoflavus_W68_00210
+lcfB,,Long-chain-fatty-acid--CoA ligase,5,5,1,1,223,,,,1478,1478,1478,albidoflavus_J1074_00592,albidoflavus_J1074_R2_00667,albidoflavus_SM254_00599,albidoflavus_UYFA156_00064,albidoflavus_W68_00048
+rppA,,"1,3,6,8-tetrahydroxynaphthalene synthase",5,5,1,1,302,,,,1097,1097,1097,albidoflavus_J1074_00516,albidoflavus_J1074_R2_00591,albidoflavus_SM254_00523,albidoflavus_UYFA156_00156,albidoflavus_W68_00128
+gmd,,"GDP-mannose 4,6-dehydratase",5,5,1,1,262,,,,1034,1034,1034,albidoflavus_J1074_00557,albidoflavus_J1074_R2_00632,albidoflavus_SM254_00563,albidoflavus_UYFA156_00115,albidoflavus_W68_00087
+desR,,Transcriptional regulatory protein DesR,5,5,1,1,437,,,,611,611,611,albidoflavus_J1074_00353,albidoflavus_J1074_R2_00429,albidoflavus_SM254_00363,albidoflavus_UYFA156_00233,albidoflavus_W68_00204
+group_974,,hypothetical protein,5,5,1,1,294,,,,635,635,635,albidoflavus_J1074_00524,albidoflavus_J1074_R2_00599,albidoflavus_SM254_00531,albidoflavus_UYFA156_00148,albidoflavus_W68_00120
+group_975,,hypothetical protein,5,5,1,1,811,,,,896,896,896,albidoflavus_J1074_00093,albidoflavus_J1074_R2_00093,albidoflavus_SM254_00143,albidoflavus_UYFA156_00473,albidoflavus_W68_00405
+gsiC_2,,Glutathione transport system permease protein GsiC,5,5,1,1,289,,,,1001,1001,1001,albidoflavus_J1074_00529,albidoflavus_J1074_R2_00604,albidoflavus_SM254_00536,albidoflavus_UYFA156_00143,albidoflavus_W68_00115
+xylB,,Xylulose kinase,5,5,1,1,1034,,,,1430,1430,1430,albidoflavus_J1074_00051,albidoflavus_J1074_R2_00051,albidoflavus_SM254_00102,albidoflavus_UYFA156_00514,albidoflavus_W68_00446
+group_981,,putative protein,5,5,1,1,1022,,,,482,482,482,albidoflavus_J1074_00042,albidoflavus_J1074_R2_00042,albidoflavus_SM254_00084,albidoflavus_UYFA156_00534,albidoflavus_W68_00466
+group_982,,hypothetical protein,5,5,1,1,646,,,,524,524,524,albidoflavus_J1074_00269,albidoflavus_J1074_R2_00271,albidoflavus_SM254_00271,albidoflavus_UYFA156_00367,albidoflavus_W68_00307
+group_983,,hypothetical protein,5,5,1,1,800,,,,806,806,806,albidoflavus_J1074_00104,albidoflavus_J1074_R2_00104,albidoflavus_SM254_00154,albidoflavus_UYFA156_00462,albidoflavus_W68_00395
+mqnD,,"1,4-dihydroxy-6-naphtoate synthase",5,5,1,1,644,,,,893,899,896,albidoflavus_J1074_00271,albidoflavus_J1074_R2_00273,albidoflavus_SM254_00273,albidoflavus_UYFA156_00365,albidoflavus_W68_00305
+group_985,,Carnitine monooxygenase oxygenase subunit,5,5,1,1,926,,,,1178,1178,1178,albidoflavus_J1074_00619,albidoflavus_J1074_R2_00694,albidoflavus_SM254_00626,albidoflavus_UYFA156_00036,albidoflavus_W68_00022
+dasR,,HTH-type transcriptional repressor DasR,5,5,1,1,692,,,,788,788,788,albidoflavus_J1074_00215,albidoflavus_J1074_R2_00216,albidoflavus_SM254_00229,albidoflavus_UYFA156_00417,albidoflavus_W68_00352
+group_987,,hypothetical protein,5,5,1,1,801,,,,215,215,215,albidoflavus_J1074_00103,albidoflavus_J1074_R2_00103,albidoflavus_SM254_00153,albidoflavus_UYFA156_00463,albidoflavus_W68_00396
+fadA_3,,3-ketoacyl-CoA thiolase,5,5,1,1,255,,,,19727,31895,29453,albidoflavus_J1074_00562,albidoflavus_J1074_R2_00637,albidoflavus_SM254_00568,albidoflavus_UYFA156_00099,albidoflavus_W68_00079
+group_991,,hypothetical protein,5,5,1,1,233,,,,2297,2309,2304,albidoflavus_J1074_00583,albidoflavus_J1074_R2_00658,albidoflavus_SM254_00589,albidoflavus_UYFA156_00074,albidoflavus_W68_00058
+ppaT,,Pyridoxamine--pyruvate transaminase,5,5,1,1,410,,,,1115,1127,1119,albidoflavus_J1074_00419,albidoflavus_J1074_R2_00495,albidoflavus_SM254_00429,albidoflavus_UYFA156_00208,albidoflavus_W68_00178
+ptsH,,Phosphocarrier protein HPr,5,5,1,1,1016,,,,278,278,278,albidoflavus_J1074_00028,albidoflavus_J1074_R2_00028,albidoflavus_SM254_00078,albidoflavus_UYFA156_00540,albidoflavus_W68_00472
+group_994,,hypothetical protein,5,5,1,1,235,,,,1199,1199,1199,albidoflavus_J1074_00581,albidoflavus_J1074_R2_00656,albidoflavus_SM254_00587,albidoflavus_UYFA156_00076,albidoflavus_W68_00060
+group_995,,hypothetical protein,5,5,1,1,776,,,,1364,1364,1364,albidoflavus_J1074_00141,albidoflavus_J1074_R2_00141,albidoflavus_SM254_00158,albidoflavus_UYFA156_00458,albidoflavus_W68_00391
+ectA,,"L-2,4-diaminobutyric acid acetyltransferase",5,5,1,1,411,,,,506,506,506,albidoflavus_J1074_00418,albidoflavus_J1074_R2_00494,albidoflavus_SM254_00428,albidoflavus_UYFA156_00209,albidoflavus_W68_00179
+group_997,,hypothetical protein,5,5,1,1,242,,,,2828,2828,2828,albidoflavus_J1074_00574,albidoflavus_J1074_R2_00649,albidoflavus_SM254_00580,albidoflavus_UYFA156_00083,albidoflavus_W68_00067
+group_998,,hypothetical protein,5,5,1,1,714,,,,1217,1217,1217,albidoflavus_J1074_00194,albidoflavus_J1074_R2_00194,albidoflavus_SM254_00207,albidoflavus_UYFA156_00442,albidoflavus_W68_00376
+dppC,,Dipeptide transport system permease protein DppC,5,5,1,1,288,,,,860,869,867,albidoflavus_J1074_00530,albidoflavus_J1074_R2_00605,albidoflavus_SM254_00537,albidoflavus_UYFA156_00142,albidoflavus_W68_00114
