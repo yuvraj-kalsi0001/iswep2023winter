@@ -1,5 +1,4 @@
 import csv
-import operator
 
 # Open the first CSV file
 with open('albidoflavus_J1074.csv') as file1:
