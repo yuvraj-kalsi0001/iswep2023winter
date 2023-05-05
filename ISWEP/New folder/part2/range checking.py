@@ -38,11 +38,6 @@ with open('albidoflavus_J1074.csv') as file1:
                     row1.extend([row2[1], row2[4]])
                     within_range_writer.writerow(row1)
                     break  # Stop looping through rows in file2
-                # else:
-                #     #Copy data from column 3 and 5 of file2 to column 6 of file1
-                #     row1.extend([row2[1], row2[4]])
-                #     not_within_range_writer.writerow(row1)
-                #     break  # Stop looping through rows in file2
             else:
                 # If the inner loop completed without finding a match, write the row to not_within_range.csv
                 not_within_range_writer.writerow(row1)

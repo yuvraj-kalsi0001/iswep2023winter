@@ -83,7 +83,7 @@ with open('output.csv') as csv_file:
 with open('output1.gff', 'w') as gff_file:
     for i in range(len(values)):
         # write the element at index 1 in the inner array
-        gff_file.write(str(values[i][1]) + '\n')
+        gff_file.write(">" + str(values[i][1]) + " "+ str(values[i][0]) + "-"+ str(values[i][2]) + ' \n')
         # write the stripped string from the CSV file
         start = int(values[i][0])
         end = int(values[i][2])
